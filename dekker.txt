@@ -1,0 +1,6458 @@
+Script started on Thu Feb 10 10:20:04 2022
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hnnano dekker      01.py[?2004l
+[?1049h[1;44r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6                        File: 01.py                                                        [42;48H[ New File ][43d^G(B[m Get Help[18G(B[0;7m^O(B[m WriteOut[35G(B[0;7m^R(B[m Read File     (B[0;7m^Y(B[m Prev Page     (B[0;7m^K(B[m Cut Text[86G(B[0;7m^C(B[m Cur Pos[44d(B[0;7m^X(B[m Exit[44;18H(B[0;7m^J(B[m Justify[35G(B[0;7m^W(B[m Where Is[52G(B[0;7m^V(B[m Next Page     (B[0;7m^U(B[m UnCut Text    (B[0;7m^T(B[m To Spell[3d[1;98H(B[0;7mModified[3d(B[mfrom multiprocessing impr[42d[K[3;26Ht  ort Process[4dfrom multiprocessing import current_process[5dfrom multiprocessing import Value,A  Arral y[6d[7dN = 8[8ddef task()c)o)m)mm)o)n),)t)i)d),)t)u)r)n)):[9d[9;9Ha=0[10df[K[10;9Hfor i in range()1)0)00)):[11d[11;9H[11;17Hprint ()f)'){)})t})i})d})}-){)})i})ii})i})[K}:)N)o)n)-)c)r)i)t)i)a))[Ka))[Kc)a)l) )S)e)c)t)i)o)n)'))[12d[12;9H[12;17H[12;25H[12;17Hwhile turn.value!=tid:[13d[13;9H[13;17H[13;25Hpass[14d[14;9H[14;17Hpring t()f)'){)})t})i})d})}-){)})i})}:)C)r)i)t)i)c)a)l) )s)e)c)t)i)o)n)'))[15d[15;9H[15;17Hv = common.value + 1[16d[16;9H[16;17Hprint()f)'){)})t})i})d})}-){)})i})}:)i))[KI)n)s)i)d)e) )c)r)i)t)i)c)a)l) )s)e)c)t)i)o)n)'))[17dc[K[17;9H[17;17Hcommonn .value = v[18d[18;9H[18;17Hprint()f)'){)})t})i})d})}-){)})i})}:) ))[Ke)n)d) )o)f) )c)r)i)t)i)c)a)l) )s)e)c)t)i)o)n)'))[19d[19;9H[19;17H[19;25H[19;17Htirn   urn.value = ()t)i)d)+)1))%N[20d[21ddef main()):[22d[22;9Hlp = [][23d[23;9Hcommon = Value()')i)'),)0))[24d[24;9Hturn = Value()')i)'),)0))[25d[25;9Hfor tid in range()n))  N)[26d[26;9H[26;17Hlp.append()P)r)o)c)e)s)ss)()))t))a))r))g))e))t))=))t))a))s))k)),)) ))a))r))g))s))=))()))))c)))o)))m)))mm)))o)))n))),)))t)))i)))d))),)))t)))u)))r)))n))))) [27d)[8G[1K )[16G[1K )[27;9H)[K)[K[26;71H)[27d[K[26;71H)[27d[27;9Hprint()f)'))[K")V)a)l)o)r) )i)n)i)c)i)a)l) )d)e)l) )c)o)n)t)a)d)o)r){)})c})o})m})mm})o})n}).})v})a})u})l})e})})[K})[K})[Kl})u})e})}}))[K}"))[28df[K[28;9Hfor p in lp[25G[29d[29;9H[29;17Hp.start())[30d§[K[30;9Hfor p in lp:[A[A:[29d[30d[31d§[K[31;9H[31;17Hp.join()[32d[32;9Hprint()F))[Kf)")V)a)l)o)r) )i)n)a)l) )d)e)l))[K)[K)[K)[K)[K)[K)[K)[Kf)i)n)a)l) )d)e)l) )c)o)n)t)a)d)o)r) ){)})c})o})m})mm})o})n}),})})[K.})v})a})l})u})e})}"))[33d[33;9Hprint()")f)i)n)"))[34d[35dif __name__ == "M __main__":[36d[36;9Hmain()[42d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                                               [43;1H Y(B[m Yes[K[44d(B[0;7m N(B[m No  [44;17H(B[0;7m^C(B[m Cancel[K[42;62H(B[0;7mFile Name to Write: 01.py                                   [43d^G(B[m Get Help[43;27H(B[0;7m^T(B[m To Files[43;53H(B[0;7mM-M(B[m Mac Format[43;79H(B[0;7mM-P(B[m Prepend[44d(B[0;7m^C(B[m Cancel[17G          (B[0;7mM-D(B[m DOS Format[44;53H(B[0;7mM-A(B[m Append[44;79H(B[0;7mM-B(B[m Backup File[42;26H[43d[39;49m(B[m[J[1;98H(B[0;7m        [42;44H(B[m[1K (B[0;7m[ Wrote 34 lines ](B[m[K[44;107H[44;1H[?1049l[?1l>[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hppythons 3 01.py[1m [0m[0m [?2004l
+  File "01.py", line 23
+    for tid in range(N)
+                      ^
+SyntaxError: invalid syntax
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hnnano 01.py[?2004l
+[?1049h[1;44r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6                        File: 01.py                                                        [3;1H(B[mfrom multiprocessing import Process[4dfrom multiprocessing import current_process[5dfrom multiprocessing import Value, Array[7dN = 8[8ddef task(common,tid,turn):[9;9Ha=0[10;9Hfor i in range(100):[11;17Hprint(f'{tid}-{i}:Non-critical Section')[12;17Hwhile turn.value!=tid:[13;25Hpass[14;17Hprint(f'{tid}-{i}:Critical section')[15;17Hv = common.value + 1[16;17Hprint(f'{tid}-{i}:Inside critical section')[17;17Hcommon.value = v[18;17Hprint(f'{tid}-{i}:end of critical section')[19;17Hturn.value = (tid+1)%N[21ddef main():[22;9Hlp = [][23;9Hcommon = Value('i',0)[24;9Hturn = Value('i',0)[25;9Hfor tid in range(N)[26;17Hlp.append(Process(target=task, args=(common,tid,turn)))[27;9Hprint(f"Valor inicial del contador{common.value}")[28;9Hfor p in lp:[29;17Hp.start()[30;9Hfor p in lp:[31;17Hp.join()[32;9Hprint(f"Valor final del contador {common.value}")[33;9Hprint("fin")[35dif __name__ == "__main__":[36;9Hmain()[42;46H(B[0;7m[ Read 34 lines ][43d^G(B[m Get Help[18G(B[0;7m^O(B[m WriteOut[35G(B[0;7m^R(B[m Read File     (B[0;7m^Y(B[m Prev Page     (B[0;7m^K(B[m Cut Text[86G(B[0;7m^C(B[m Cur Pos[44d(B[0;7m^X(B[m Exit[44;18H(B[0;7m^J(B[m Justify[35G(B[0;7m^W(B[m Where Is[52G(B[0;7m^V(B[m Next Page     (B[0;7m^U(B[m UnCut Text    (B[0;7m^T(B[m To Spell[3d[43d[J[44;107H[44;1H[?1049l[?1l>[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hnano 01.py[?2004l
+[?1049h[1;44r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6                        File: 01.py                                                        [3;1H(B[mfrom multiprocessing import Process[4dfrom multiprocessing import current_process[5dfrom multiprocessing import Value, Array[7dN = 8[8ddef task(common,tid,turn):[9;9Ha=0[10;9Hfor i in range(100):[11;17Hprint(f'{tid}-{i}:Non-critical Section')[12;17Hwhile turn.value!=tid:[13;25Hpass[14;17Hprint(f'{tid}-{i}:Critical section')[15;17Hv = common.value + 1[16;17Hprint(f'{tid}-{i}:Inside critical section')[17;17Hcommon.value = v[18;17Hprint(f'{tid}-{i}:end of critical section')[19;17Hturn.value = (tid+1)%N[21ddef main():[22;9Hlp = [][23;9Hcommon = Value('i',0)[24;9Hturn = Value('i',0)[25;9Hfor tid in range(N)[26;17Hlp.append(Process(target=task, args=(common,tid,turn)))[27;9Hprint(f"Valor inicial del contador{common.value}")[28;9Hfor p in lp:[29;17Hp.start()[30;9Hfor p in lp:[31;17Hp.join()[32;9Hprint(f"Valor final del contador {common.value}")[33;9Hprint("fin")[35dif __name__ == "__main__":[36;9Hmain()[42;46H(B[0;7m[ Read 34 lines ][43d^G(B[m Get Help[18G(B[0;7m^O(B[m WriteOut[35G(B[0;7m^R(B[m Read File     (B[0;7m^Y(B[m Prev Page     (B[0;7m^K(B[m Cut Text[86G(B[0;7m^C(B[m Cur Pos[44d(B[0;7m^X(B[m Exit[44;18H(B[0;7m^J(B[m Justify[35G(B[0;7m^W(B[m Where Is[52G(B[0;7m^V(B[m Next Page     (B[0;7m^U(B[m UnCut Text    (B[0;7m^T(B[m To Spell[3d[4d[5d[6d[7d[8d[9d[10d[11d[12d[13d[14d[15d[16d[17d[18d[19d[20d[21d[22d[23d[42d[K[23d[24d[25d[25;9Hfor tid in range(N)[1;98H(B[0;7mModified[25;28H(B[m:[42d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                                               [43;1H Y(B[m Yes[K[44d(B[0;7m N(B[m No  [44;17H(B[0;7m^C(B[m Cancel[K[42;62H(B[0;7mFile Name to Write: 01.py                                   [43d^G(B[m Get Help[43;27H(B[0;7m^T(B[m To Files[43;53H(B[0;7mM-M(B[m Mac Format[43;79H(B[0;7mM-P(B[m Prepend[44d(B[0;7m^C(B[m Cancel[17G          (B[0;7mM-D(B[m DOS Format[44;53H(B[0;7mM-A(B[m Append[44;79H(B[0;7mM-B(B[m Backup File[42;26H[43d[39;49m(B[m[J[1;98H(B[0;7m        [42;44H(B[m[1K (B[0;7m[ Wrote 34 lines ](B[m[K[44;107H[44;1H[?1049l[?1l>[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hnano 01.py[10Dpython3 01.py[?2004l
+Valor inicial del contador0
+1-0:Non-critical Section
+0-0:Non-critical Section
+0-0:Critical section
+0-0:Inside critical section
+0-0:end of critical section
+0-1:Non-critical Section
+2-0:Non-critical Section
+1-0:Critical section
+1-0:Inside critical section
+1-0:end of critical section
+3-0:Non-critical Section
+1-1:Non-critical Section
+2-0:Critical section
+2-0:Inside critical section
+2-0:end of critical section
+2-1:Non-critical Section
+3-0:Critical section
+3-0:Inside critical section
+3-0:end of critical section
+3-1:Non-critical Section
+4-0:Non-critical Section
+5-0:Non-critical Section
+4-0:Critical section
+4-0:Inside critical section
+4-0:end of critical section
+4-1:Non-critical Section
+5-0:Critical section
+5-0:Inside critical section
+5-0:end of critical section
+5-1:Non-critical Section
+6-0:Non-critical Section
+6-0:Critical section
+6-0:Inside critical section
+6-0:end of critical section
+6-1:Non-critical Section
+7-0:Non-critical Section
+7-0:Critical section
+7-0:Inside critical section
+7-0:end of critical section
+7-1:Non-critical Section
+0-1:Critical section
+0-1:Inside critical section
+0-1:end of critical section
+0-2:Non-critical Section
+1-1:Critical section
+1-1:Inside critical section
+1-1:end of critical section
+1-2:Non-critical Section
+2-1:Critical section
+2-1:Inside critical section
+2-1:end of critical section
+2-2:Non-critical Section
+3-1:Critical section
+3-1:Inside critical section
+3-1:end of critical section
+3-2:Non-critical Section
+4-1:Critical section
+4-1:Inside critical section
+4-1:end of critical section
+4-2:Non-critical Section
+5-1:Critical section
+5-1:Inside critical section
+5-1:end of critical section
+5-2:Non-critical Section
+6-1:Critical section
+6-1:Inside critical section
+6-1:end of critical section
+6-2:Non-critical Section
+7-1:Critical section
+7-1:Inside critical section
+7-1:end of critical section
+7-2:Non-critical Section
+0-2:Critical section
+0-2:Inside critical section
+0-2:end of critical section
+0-3:Non-critical Section
+1-2:Critical section
+1-2:Inside critical section
+1-2:end of critical section
+1-3:Non-critical Section
+2-2:Critical section
+2-2:Inside critical section
+2-2:end of critical section
+2-3:Non-critical Section
+3-2:Critical section
+3-2:Inside critical section
+3-2:end of critical section
+3-3:Non-critical Section
+4-2:Critical section
+4-2:Inside critical section
+4-2:end of critical section
+4-3:Non-critical Section
+5-2:Critical section
+5-2:Inside critical section
+5-2:end of critical section
+5-3:Non-critical Section
+6-2:Critical section
+6-2:Inside critical section
+6-2:end of critical section
+6-3:Non-critical Section
+7-2:Critical section
+7-2:Inside critical section
+7-2:end of critical section
+7-3:Non-critical Section
+0-3:Critical section
+0-3:Inside critical section
+0-3:end of critical section
+0-4:Non-critical Section
+1-3:Critical section
+1-3:Inside critical section
+1-3:end of critical section
+1-4:Non-critical Section
+2-3:Critical section
+2-3:Inside critical section
+2-3:end of critical section
+2-4:Non-critical Section
+3-3:Critical section
+3-3:Inside critical section
+3-3:end of critical section
+3-4:Non-critical Section
+4-3:Critical section
+4-3:Inside critical section
+4-3:end of critical section
+4-4:Non-critical Section
+5-3:Critical section
+5-3:Inside critical section
+5-3:end of critical section
+5-4:Non-critical Section
+6-3:Critical section
+6-3:Inside critical section
+6-3:end of critical section
+6-4:Non-critical Section
+7-3:Critical section
+7-3:Inside critical section
+7-3:end of critical section
+7-4:Non-critical Section
+0-4:Critical section
+0-4:Inside critical section
+0-4:end of critical section
+0-5:Non-critical Section
+1-4:Critical section
+1-4:Inside critical section
+1-4:end of critical section
+1-5:Non-critical Section
+2-4:Critical section
+2-4:Inside critical section
+2-4:end of critical section
+2-5:Non-critical Section
+3-4:Critical section
+3-4:Inside critical section
+3-4:end of critical section
+3-5:Non-critical Section
+4-4:Critical section
+4-4:Inside critical section
+4-4:end of critical section
+4-5:Non-critical Section
+5-4:Critical section
+5-4:Inside critical section
+5-4:end of critical section
+5-5:Non-critical Section
+6-4:Critical section
+6-4:Inside critical section
+6-4:end of critical section
+6-5:Non-critical Section
+7-4:Critical section
+7-4:Inside critical section
+7-4:end of critical section
+7-5:Non-critical Section
+0-5:Critical section
+0-5:Inside critical section
+0-5:end of critical section
+0-6:Non-critical Section
+1-5:Critical section
+1-5:Inside critical section
+1-5:end of critical section
+1-6:Non-critical Section
+2-5:Critical section
+2-5:Inside critical section
+2-5:end of critical section
+2-6:Non-critical Section
+3-5:Critical section
+3-5:Inside critical section
+3-5:end of critical section
+3-6:Non-critical Section
+4-5:Critical section
+4-5:Inside critical section
+4-5:end of critical section
+4-6:Non-critical Section
+5-5:Critical section
+5-5:Inside critical section
+5-5:end of critical section
+5-6:Non-critical Section
+6-5:Critical section
+6-5:Inside critical section
+6-5:end of critical section
+6-6:Non-critical Section
+7-5:Critical section
+7-5:Inside critical section
+7-5:end of critical section
+7-6:Non-critical Section
+0-6:Critical section
+0-6:Inside critical section
+0-6:end of critical section
+0-7:Non-critical Section
+1-6:Critical section
+1-6:Inside critical section
+1-6:end of critical section
+1-7:Non-critical Section
+2-6:Critical section
+2-6:Inside critical section
+2-6:end of critical section
+2-7:Non-critical Section
+3-6:Critical section
+3-6:Inside critical section
+3-6:end of critical section
+3-7:Non-critical Section
+4-6:Critical section
+4-6:Inside critical section
+4-6:end of critical section
+4-7:Non-critical Section
+5-6:Critical section
+5-6:Inside critical section
+5-6:end of critical section
+5-7:Non-critical Section
+6-6:Critical section
+6-6:Inside critical section
+6-6:end of critical section
+6-7:Non-critical Section
+7-6:Critical section
+7-6:Inside critical section
+7-6:end of critical section
+7-7:Non-critical Section
+0-7:Critical section
+0-7:Inside critical section
+0-7:end of critical section
+0-8:Non-critical Section
+1-7:Critical section
+1-7:Inside critical section
+1-7:end of critical section
+1-8:Non-critical Section
+2-7:Critical section
+2-7:Inside critical section
+2-7:end of critical section
+2-8:Non-critical Section
+3-7:Critical section
+3-7:Inside critical section
+3-7:end of critical section
+3-8:Non-critical Section
+4-7:Critical section
+4-7:Inside critical section
+4-7:end of critical section
+4-8:Non-critical Section
+5-7:Critical section
+5-7:Inside critical section
+5-7:end of critical section
+5-8:Non-critical Section
+6-7:Critical section
+6-7:Inside critical section
+6-7:end of critical section
+6-8:Non-critical Section
+7-7:Critical section
+7-7:Inside critical section
+7-7:end of critical section
+7-8:Non-critical Section
+0-8:Critical section
+0-8:Inside critical section
+0-8:end of critical section
+0-9:Non-critical Section
+1-8:Critical section
+1-8:Inside critical section
+1-8:end of critical section
+1-9:Non-critical Section
+2-8:Critical section
+2-8:Inside critical section
+2-8:end of critical section
+2-9:Non-critical Section
+3-8:Critical section
+3-8:Inside critical section
+3-8:end of critical section
+3-9:Non-critical Section
+4-8:Critical section
+4-8:Inside critical section
+4-8:end of critical section
+4-9:Non-critical Section
+5-8:Critical section
+5-8:Inside critical section
+5-8:end of critical section
+5-9:Non-critical Section
+6-8:Critical section
+6-8:Inside critical section
+6-8:end of critical section
+6-9:Non-critical Section
+7-8:Critical section
+7-8:Inside critical section
+7-8:end of critical section
+7-9:Non-critical Section
+0-9:Critical section
+0-9:Inside critical section
+0-9:end of critical section
+0-10:Non-critical Section
+1-9:Critical section
+1-9:Inside critical section
+1-9:end of critical section
+1-10:Non-critical Section
+2-9:Critical section
+2-9:Inside critical section
+2-9:end of critical section
+2-10:Non-critical Section
+3-9:Critical section
+3-9:Inside critical section
+3-9:end of critical section
+3-10:Non-critical Section
+4-9:Critical section
+4-9:Inside critical section
+4-9:end of critical section
+4-10:Non-critical Section
+5-9:Critical section
+5-9:Inside critical section
+5-9:end of critical section
+5-10:Non-critical Section
+6-9:Critical section
+6-9:Inside critical section
+6-9:end of critical section
+6-10:Non-critical Section
+7-9:Critical section
+7-9:Inside critical section
+7-9:end of critical section
+7-10:Non-critical Section
+0-10:Critical section
+0-10:Inside critical section
+0-10:end of critical section
+0-11:Non-critical Section
+1-10:Critical section
+1-10:Inside critical section
+1-10:end of critical section
+1-11:Non-critical Section
+2-10:Critical section
+2-10:Inside critical section
+2-10:end of critical section
+2-11:Non-critical Section
+3-10:Critical section
+3-10:Inside critical section
+3-10:end of critical section
+3-11:Non-critical Section
+4-10:Critical section
+4-10:Inside critical section
+4-10:end of critical section
+4-11:Non-critical Section
+5-10:Critical section
+5-10:Inside critical section
+5-10:end of critical section
+5-11:Non-critical Section
+6-10:Critical section
+6-10:Inside critical section
+6-10:end of critical section
+6-11:Non-critical Section
+7-10:Critical section
+7-10:Inside critical section
+7-10:end of critical section
+7-11:Non-critical Section
+0-11:Critical section
+0-11:Inside critical section
+0-11:end of critical section
+0-12:Non-critical Section
+1-11:Critical section
+1-11:Inside critical section
+1-11:end of critical section
+1-12:Non-critical Section
+2-11:Critical section
+2-11:Inside critical section
+2-11:end of critical section
+2-12:Non-critical Section
+3-11:Critical section
+3-11:Inside critical section
+3-11:end of critical section
+3-12:Non-critical Section
+4-11:Critical section
+4-11:Inside critical section
+4-11:end of critical section
+4-12:Non-critical Section
+5-11:Critical section
+5-11:Inside critical section
+5-11:end of critical section
+5-12:Non-critical Section
+6-11:Critical section
+6-11:Inside critical section
+6-11:end of critical section
+6-12:Non-critical Section
+7-11:Critical section
+7-11:Inside critical section
+7-11:end of critical section
+7-12:Non-critical Section
+0-12:Critical section
+0-12:Inside critical section
+0-12:end of critical section
+0-13:Non-critical Section
+1-12:Critical section
+1-12:Inside critical section
+1-12:end of critical section
+1-13:Non-critical Section
+2-12:Critical section
+2-12:Inside critical section
+2-12:end of critical section
+2-13:Non-critical Section
+3-12:Critical section
+3-12:Inside critical section
+3-12:end of critical section
+3-13:Non-critical Section
+4-12:Critical section
+4-12:Inside critical section
+4-12:end of critical section
+4-13:Non-critical Section
+5-12:Critical section
+5-12:Inside critical section
+5-12:end of critical section
+5-13:Non-critical Section
+6-12:Critical section
+6-12:Inside critical section
+6-12:end of critical section
+6-13:Non-critical Section
+7-12:Critical section
+7-12:Inside critical section
+7-12:end of critical section
+7-13:Non-critical Section
+0-13:Critical section
+0-13:Inside critical section
+0-13:end of critical section
+0-14:Non-critical Section
+1-13:Critical section
+1-13:Inside critical section
+1-13:end of critical section
+1-14:Non-critical Section
+2-13:Critical section
+2-13:Inside critical section
+2-13:end of critical section
+2-14:Non-critical Section
+3-13:Critical section
+3-13:Inside critical section
+3-13:end of critical section
+3-14:Non-critical Section
+4-13:Critical section
+4-13:Inside critical section
+4-13:end of critical section
+4-14:Non-critical Section
+5-13:Critical section
+5-13:Inside critical section
+5-13:end of critical section
+5-14:Non-critical Section
+6-13:Critical section
+6-13:Inside critical section
+6-13:end of critical section
+6-14:Non-critical Section
+7-13:Critical section
+7-13:Inside critical section
+7-13:end of critical section
+7-14:Non-critical Section
+0-14:Critical section
+0-14:Inside critical section
+0-14:end of critical section
+0-15:Non-critical Section
+1-14:Critical section
+1-14:Inside critical section
+1-14:end of critical section
+1-15:Non-critical Section
+2-14:Critical section
+2-14:Inside critical section
+2-14:end of critical section
+2-15:Non-critical Section
+3-14:Critical section
+3-14:Inside critical section
+3-14:end of critical section
+3-15:Non-critical Section
+4-14:Critical section
+4-14:Inside critical section
+4-14:end of critical section
+4-15:Non-critical Section
+5-14:Critical section
+5-14:Inside critical section
+5-14:end of critical section
+6-14:Critical section
+5-15:Non-critical Section
+6-14:Inside critical section
+6-14:end of critical section
+6-15:Non-critical Section
+7-14:Critical section
+7-14:Inside critical section
+7-14:end of critical section
+7-15:Non-critical Section
+0-15:Critical section
+0-15:Inside critical section
+0-15:end of critical section
+0-16:Non-critical Section
+1-15:Critical section
+1-15:Inside critical section
+1-15:end of critical section
+1-16:Non-critical Section
+2-15:Critical section
+2-15:Inside critical section
+2-15:end of critical section
+2-16:Non-critical Section
+3-15:Critical section
+3-15:Inside critical section
+3-15:end of critical section
+3-16:Non-critical Section
+4-15:Critical section
+4-15:Inside critical section
+4-15:end of critical section
+4-16:Non-critical Section
+5-15:Critical section
+5-15:Inside critical section
+5-15:end of critical section
+5-16:Non-critical Section
+6-15:Critical section
+6-15:Inside critical section
+6-15:end of critical section
+6-16:Non-critical Section
+7-15:Critical section
+7-15:Inside critical section
+7-15:end of critical section
+7-16:Non-critical Section
+0-16:Critical section
+0-16:Inside critical section
+0-16:end of critical section
+0-17:Non-critical Section
+1-16:Critical section
+1-16:Inside critical section
+1-16:end of critical section
+1-17:Non-critical Section
+2-16:Critical section
+2-16:Inside critical section
+2-16:end of critical section
+2-17:Non-critical Section
+3-16:Critical section
+3-16:Inside critical section
+3-16:end of critical section
+3-17:Non-critical Section
+4-16:Critical section
+4-16:Inside critical section
+4-16:end of critical section
+4-17:Non-critical Section
+5-16:Critical section
+5-16:Inside critical section
+5-16:end of critical section
+6-16:Critical section
+6-16:Inside critical section
+5-17:Non-critical Section
+6-16:end of critical section
+6-17:Non-critical Section
+7-16:Critical section
+7-16:Inside critical section
+7-16:end of critical section
+7-17:Non-critical Section
+0-17:Critical section
+0-17:Inside critical section
+0-17:end of critical section
+0-18:Non-critical Section
+1-17:Critical section
+1-17:Inside critical section
+1-17:end of critical section
+1-18:Non-critical Section
+2-17:Critical section
+2-17:Inside critical section
+2-17:end of critical section
+2-18:Non-critical Section
+3-17:Critical section
+3-17:Inside critical section
+3-17:end of critical section
+3-18:Non-critical Section
+4-17:Critical section
+4-17:Inside critical section
+4-17:end of critical section
+4-18:Non-critical Section
+5-17:Critical section
+5-17:Inside critical section
+5-17:end of critical section
+5-18:Non-critical Section
+6-17:Critical section
+6-17:Inside critical section
+6-17:end of critical section
+6-18:Non-critical Section
+7-17:Critical section
+7-17:Inside critical section
+7-17:end of critical section
+7-18:Non-critical Section
+0-18:Critical section
+0-18:Inside critical section
+0-18:end of critical section
+0-19:Non-critical Section
+1-18:Critical section
+1-18:Inside critical section
+1-18:end of critical section
+1-19:Non-critical Section
+2-18:Critical section
+2-18:Inside critical section
+2-18:end of critical section
+2-19:Non-critical Section
+3-18:Critical section
+3-18:Inside critical section
+3-18:end of critical section
+3-19:Non-critical Section
+4-18:Critical section
+4-18:Inside critical section
+4-18:end of critical section
+4-19:Non-critical Section
+5-18:Critical section
+5-18:Inside critical section
+5-18:end of critical section
+5-19:Non-critical Section
+6-18:Critical section
+6-18:Inside critical section
+6-18:end of critical section
+6-19:Non-critical Section
+7-18:Critical section
+7-18:Inside critical section
+7-18:end of critical section
+7-19:Non-critical Section
+0-19:Critical section
+0-19:Inside critical section
+0-19:end of critical section
+0-20:Non-critical Section
+1-19:Critical section
+1-19:Inside critical section
+1-19:end of critical section
+1-20:Non-critical Section
+2-19:Critical section
+2-19:Inside critical section
+2-19:end of critical section
+2-20:Non-critical Section
+3-19:Critical section
+3-19:Inside critical section
+3-19:end of critical section
+3-20:Non-critical Section
+4-19:Critical section
+4-19:Inside critical section
+4-19:end of critical section
+4-20:Non-critical Section
+5-19:Critical section
+5-19:Inside critical section
+5-19:end of critical section
+5-20:Non-critical Section
+6-19:Critical section
+6-19:Inside critical section
+6-19:end of critical section
+6-20:Non-critical Section
+7-19:Critical section
+7-19:Inside critical section
+7-19:end of critical section
+7-20:Non-critical Section
+0-20:Critical section
+0-20:Inside critical section
+0-20:end of critical section
+0-21:Non-critical Section
+1-20:Critical section
+1-20:Inside critical section
+1-20:end of critical section
+1-21:Non-critical Section
+2-20:Critical section
+2-20:Inside critical section
+2-20:end of critical section
+2-21:Non-critical Section
+3-20:Critical section
+3-20:Inside critical section
+3-20:end of critical section
+3-21:Non-critical Section
+4-20:Critical section
+4-20:Inside critical section
+4-20:end of critical section
+4-21:Non-critical Section
+5-20:Critical section
+5-20:Inside critical section
+5-20:end of critical section
+5-21:Non-critical Section
+6-20:Critical section
+6-20:Inside critical section
+6-20:end of critical section
+6-21:Non-critical Section
+7-20:Critical section
+7-20:Inside critical section
+7-20:end of critical section
+7-21:Non-critical Section
+0-21:Critical section
+0-21:Inside critical section
+0-21:end of critical section
+0-22:Non-critical Section
+1-21:Critical section
+1-21:Inside critical section
+1-21:end of critical section
+1-22:Non-critical Section
+2-21:Critical section
+2-21:Inside critical section
+2-21:end of critical section
+2-22:Non-critical Section
+3-21:Critical section
+3-21:Inside critical section
+3-21:end of critical section
+3-22:Non-critical Section
+4-21:Critical section
+4-21:Inside critical section
+4-21:end of critical section
+4-22:Non-critical Section
+5-21:Critical section
+5-21:Inside critical section
+5-21:end of critical section
+5-22:Non-critical Section
+6-21:Critical section
+6-21:Inside critical section
+6-21:end of critical section
+6-22:Non-critical Section
+7-21:Critical section
+7-21:Inside critical section
+7-21:end of critical section
+7-22:Non-critical Section
+0-22:Critical section
+0-22:Inside critical section
+0-22:end of critical section
+0-23:Non-critical Section
+1-22:Critical section
+1-22:Inside critical section
+1-22:end of critical section
+1-23:Non-critical Section
+2-22:Critical section
+2-22:Inside critical section
+2-22:end of critical section
+2-23:Non-critical Section
+3-22:Critical section
+3-22:Inside critical section
+3-22:end of critical section
+3-23:Non-critical Section
+4-22:Critical section
+4-22:Inside critical section
+4-22:end of critical section
+4-23:Non-critical Section
+5-22:Critical section
+5-22:Inside critical section
+5-22:end of critical section
+5-23:Non-critical Section
+6-22:Critical section
+6-22:Inside critical section
+6-22:end of critical section
+6-23:Non-critical Section
+7-22:Critical section
+7-22:Inside critical section
+7-22:end of critical section
+7-23:Non-critical Section
+0-23:Critical section
+0-23:Inside critical section
+0-23:end of critical section
+0-24:Non-critical Section
+1-23:Critical section
+1-23:Inside critical section
+1-23:end of critical section
+1-24:Non-critical Section
+2-23:Critical section
+2-23:Inside critical section
+2-23:end of critical section
+2-24:Non-critical Section
+3-23:Critical section
+3-23:Inside critical section
+3-23:end of critical section
+3-24:Non-critical Section
+4-23:Critical section
+4-23:Inside critical section
+4-23:end of critical section
+4-24:Non-critical Section
+5-23:Critical section
+5-23:Inside critical section
+5-23:end of critical section
+5-24:Non-critical Section
+6-23:Critical section
+6-23:Inside critical section
+6-23:end of critical section
+6-24:Non-critical Section
+7-23:Critical section
+7-23:Inside critical section
+7-23:end of critical section
+7-24:Non-critical Section
+0-24:Critical section
+0-24:Inside critical section
+0-24:end of critical section
+0-25:Non-critical Section
+1-24:Critical section
+1-24:Inside critical section
+1-24:end of critical section
+1-25:Non-critical Section
+2-24:Critical section
+2-24:Inside critical section
+2-24:end of critical section
+2-25:Non-critical Section
+3-24:Critical section
+3-24:Inside critical section
+3-24:end of critical section
+3-25:Non-critical Section
+4-24:Critical section
+4-24:Inside critical section
+4-24:end of critical section
+4-25:Non-critical Section
+5-24:Critical section
+5-24:Inside critical section
+5-24:end of critical section
+5-25:Non-critical Section
+6-24:Critical section
+6-24:Inside critical section
+6-24:end of critical section
+6-25:Non-critical Section
+7-24:Critical section
+7-24:Inside critical section
+7-24:end of critical section
+7-25:Non-critical Section
+0-25:Critical section
+0-25:Inside critical section
+0-25:end of critical section
+0-26:Non-critical Section
+1-25:Critical section
+1-25:Inside critical section
+1-25:end of critical section
+1-26:Non-critical Section
+2-25:Critical section
+2-25:Inside critical section
+2-25:end of critical section
+2-26:Non-critical Section
+3-25:Critical section
+3-25:Inside critical section
+3-25:end of critical section
+3-26:Non-critical Section
+4-25:Critical section
+4-25:Inside critical section
+4-25:end of critical section
+4-26:Non-critical Section
+5-25:Critical section
+5-25:Inside critical section
+5-25:end of critical section
+5-26:Non-critical Section
+6-25:Critical section
+6-25:Inside critical section
+6-25:end of critical section
+6-26:Non-critical Section
+7-25:Critical section
+7-25:Inside critical section
+7-25:end of critical section
+7-26:Non-critical Section
+0-26:Critical section
+0-26:Inside critical section
+0-26:end of critical section
+0-27:Non-critical Section
+1-26:Critical section
+1-26:Inside critical section
+1-26:end of critical section
+1-27:Non-critical Section
+2-26:Critical section
+2-26:Inside critical section
+2-26:end of critical section
+2-27:Non-critical Section
+3-26:Critical section
+3-26:Inside critical section
+3-26:end of critical section
+3-27:Non-critical Section
+4-26:Critical section
+4-26:Inside critical section
+4-26:end of critical section
+5-26:Critical section
+5-26:Inside critical section
+4-27:Non-critical Section
+5-26:end of critical section
+5-27:Non-critical Section
+6-26:Critical section
+6-26:Inside critical section
+6-26:end of critical section
+6-27:Non-critical Section
+7-26:Critical section
+7-26:Inside critical section
+7-26:end of critical section
+7-27:Non-critical Section
+0-27:Critical section
+0-27:Inside critical section
+0-27:end of critical section
+0-28:Non-critical Section
+1-27:Critical section
+1-27:Inside critical section
+1-27:end of critical section
+1-28:Non-critical Section
+2-27:Critical section
+2-27:Inside critical section
+2-27:end of critical section
+2-28:Non-critical Section
+3-27:Critical section
+3-27:Inside critical section
+3-27:end of critical section
+3-28:Non-critical Section
+4-27:Critical section
+4-27:Inside critical section
+4-27:end of critical section
+4-28:Non-critical Section
+5-27:Critical section
+5-27:Inside critical section
+5-27:end of critical section
+5-28:Non-critical Section
+6-27:Critical section
+6-27:Inside critical section
+6-27:end of critical section
+6-28:Non-critical Section
+7-27:Critical section
+7-27:Inside critical section
+7-27:end of critical section
+7-28:Non-critical Section
+0-28:Critical section
+0-28:Inside critical section
+0-28:end of critical section
+0-29:Non-critical Section
+1-28:Critical section
+1-28:Inside critical section
+1-28:end of critical section
+1-29:Non-critical Section
+2-28:Critical section
+2-28:Inside critical section
+2-28:end of critical section
+3-28:Critical section
+2-29:Non-critical Section
+3-28:Inside critical section
+3-28:end of critical section
+3-29:Non-critical Section
+4-28:Critical section
+4-28:Inside critical section
+4-28:end of critical section
+4-29:Non-critical Section
+5-28:Critical section
+5-28:Inside critical section
+5-28:end of critical section
+5-29:Non-critical Section
+6-28:Critical section
+6-28:Inside critical section
+6-28:end of critical section
+6-29:Non-critical Section
+7-28:Critical section
+7-28:Inside critical section
+7-28:end of critical section
+7-29:Non-critical Section
+0-29:Critical section
+0-29:Inside critical section
+0-29:end of critical section
+0-30:Non-critical Section
+1-29:Critical section
+1-29:Inside critical section
+1-29:end of critical section
+2-29:Critical section
+2-29:Inside critical section
+1-30:Non-critical Section
+2-29:end of critical section
+2-30:Non-critical Section
+3-29:Critical section
+3-29:Inside critical section
+3-29:end of critical section
+3-30:Non-critical Section
+4-29:Critical section
+4-29:Inside critical section
+4-29:end of critical section
+4-30:Non-critical Section
+5-29:Critical section
+5-29:Inside critical section
+5-29:end of critical section
+5-30:Non-critical Section
+6-29:Critical section
+6-29:Inside critical section
+6-29:end of critical section
+6-30:Non-critical Section
+7-29:Critical section
+7-29:Inside critical section
+7-29:end of critical section
+7-30:Non-critical Section
+0-30:Critical section
+0-30:Inside critical section
+0-30:end of critical section
+0-31:Non-critical Section
+1-30:Critical section
+1-30:Inside critical section
+1-30:end of critical section
+1-31:Non-critical Section
+2-30:Critical section
+2-30:Inside critical section
+2-30:end of critical section
+2-31:Non-critical Section
+3-30:Critical section
+3-30:Inside critical section
+3-30:end of critical section
+3-31:Non-critical Section
+4-30:Critical section
+4-30:Inside critical section
+4-30:end of critical section
+4-31:Non-critical Section
+5-30:Critical section
+5-30:Inside critical section
+5-30:end of critical section
+5-31:Non-critical Section
+6-30:Critical section
+6-30:Inside critical section
+6-30:end of critical section
+6-31:Non-critical Section
+7-30:Critical section
+7-30:Inside critical section
+7-30:end of critical section
+7-31:Non-critical Section
+0-31:Critical section
+0-31:Inside critical section
+0-31:end of critical section
+0-32:Non-critical Section
+1-31:Critical section
+1-31:Inside critical section
+1-31:end of critical section
+1-32:Non-critical Section
+2-31:Critical section
+2-31:Inside critical section
+2-31:end of critical section
+2-32:Non-critical Section
+3-31:Critical section
+3-31:Inside critical section
+3-31:end of critical section
+3-32:Non-critical Section
+4-31:Critical section
+4-31:Inside critical section
+4-31:end of critical section
+4-32:Non-critical Section
+5-31:Critical section
+5-31:Inside critical section
+5-31:end of critical section
+5-32:Non-critical Section
+6-31:Critical section
+6-31:Inside critical section
+6-31:end of critical section
+6-32:Non-critical Section
+7-31:Critical section
+7-31:Inside critical section
+7-31:end of critical section
+7-32:Non-critical Section
+0-32:Critical section
+0-32:Inside critical section
+0-32:end of critical section
+0-33:Non-critical Section
+1-32:Critical section
+1-32:Inside critical section
+1-32:end of critical section
+1-33:Non-critical Section
+2-32:Critical section
+2-32:Inside critical section
+2-32:end of critical section
+2-33:Non-critical Section
+3-32:Critical section
+3-32:Inside critical section
+3-32:end of critical section
+3-33:Non-critical Section
+4-32:Critical section
+4-32:Inside critical section
+4-32:end of critical section
+4-33:Non-critical Section
+5-32:Critical section
+5-32:Inside critical section
+5-32:end of critical section
+5-33:Non-critical Section
+6-32:Critical section
+6-32:Inside critical section
+6-32:end of critical section
+6-33:Non-critical Section
+7-32:Critical section
+7-32:Inside critical section
+7-32:end of critical section
+7-33:Non-critical Section
+0-33:Critical section
+0-33:Inside critical section
+0-33:end of critical section
+0-34:Non-critical Section
+1-33:Critical section
+1-33:Inside critical section
+1-33:end of critical section
+1-34:Non-critical Section
+2-33:Critical section
+2-33:Inside critical section
+2-33:end of critical section
+2-34:Non-critical Section
+3-33:Critical section
+3-33:Inside critical section
+3-33:end of critical section
+4-33:Critical section
+3-34:Non-critical Section
+4-33:Inside critical section
+4-33:end of critical section
+4-34:Non-critical Section
+5-33:Critical section
+5-33:Inside critical section
+5-33:end of critical section
+5-34:Non-critical Section
+6-33:Critical section
+6-33:Inside critical section
+6-33:end of critical section
+6-34:Non-critical Section
+7-33:Critical section
+7-33:Inside critical section
+7-33:end of critical section
+7-34:Non-critical Section
+0-34:Critical section
+0-34:Inside critical section
+0-34:end of critical section
+0-35:Non-critical Section
+1-34:Critical section
+1-34:Inside critical section
+1-34:end of critical section
+1-35:Non-critical Section
+2-34:Critical section
+2-34:Inside critical section
+2-34:end of critical section
+2-35:Non-critical Section
+3-34:Critical section
+3-34:Inside critical section
+3-34:end of critical section
+3-35:Non-critical Section
+4-34:Critical section
+4-34:Inside critical section
+4-34:end of critical section
+4-35:Non-critical Section
+5-34:Critical section
+5-34:Inside critical section
+5-34:end of critical section
+5-35:Non-critical Section
+6-34:Critical section
+6-34:Inside critical section
+6-34:end of critical section
+6-35:Non-critical Section
+7-34:Critical section
+7-34:Inside critical section
+7-34:end of critical section
+7-35:Non-critical Section
+0-35:Critical section
+0-35:Inside critical section
+0-35:end of critical section
+0-36:Non-critical Section
+1-35:Critical section
+1-35:Inside critical section
+1-35:end of critical section
+1-36:Non-critical Section
+2-35:Critical section
+2-35:Inside critical section
+2-35:end of critical section
+2-36:Non-critical Section
+3-35:Critical section
+3-35:Inside critical section
+3-35:end of critical section
+3-36:Non-critical Section
+4-35:Critical section
+4-35:Inside critical section
+4-35:end of critical section
+4-36:Non-critical Section
+5-35:Critical section
+5-35:Inside critical section
+5-35:end of critical section
+5-36:Non-critical Section
+6-35:Critical section
+6-35:Inside critical section
+6-35:end of critical section
+6-36:Non-critical Section
+7-35:Critical section
+7-35:Inside critical section
+7-35:end of critical section
+7-36:Non-critical Section
+0-36:Critical section
+0-36:Inside critical section
+0-36:end of critical section
+0-37:Non-critical Section
+1-36:Critical section
+1-36:Inside critical section
+1-36:end of critical section
+1-37:Non-critical Section
+2-36:Critical section
+2-36:Inside critical section
+2-36:end of critical section
+2-37:Non-critical Section
+3-36:Critical section
+3-36:Inside critical section
+3-36:end of critical section
+3-37:Non-critical Section
+4-36:Critical section
+4-36:Inside critical section
+4-36:end of critical section
+4-37:Non-critical Section
+5-36:Critical section
+5-36:Inside critical section
+5-36:end of critical section
+5-37:Non-critical Section
+6-36:Critical section
+6-36:Inside critical section
+6-36:end of critical section
+6-37:Non-critical Section
+7-36:Critical section
+7-36:Inside critical section
+7-36:end of critical section
+7-37:Non-critical Section
+0-37:Critical section
+0-37:Inside critical section
+0-37:end of critical section
+0-38:Non-critical Section
+1-37:Critical section
+1-37:Inside critical section
+1-37:end of critical section
+1-38:Non-critical Section
+2-37:Critical section
+2-37:Inside critical section
+2-37:end of critical section
+2-38:Non-critical Section
+3-37:Critical section
+3-37:Inside critical section
+3-37:end of critical section
+3-38:Non-critical Section
+4-37:Critical section
+4-37:Inside critical section
+4-37:end of critical section
+4-38:Non-critical Section
+5-37:Critical section
+5-37:Inside critical section
+5-37:end of critical section
+5-38:Non-critical Section
+6-37:Critical section
+6-37:Inside critical section
+6-37:end of critical section
+6-38:Non-critical Section
+7-37:Critical section
+7-37:Inside critical section
+7-37:end of critical section
+7-38:Non-critical Section
+0-38:Critical section
+0-38:Inside critical section
+0-38:end of critical section
+0-39:Non-critical Section
+1-38:Critical section
+1-38:Inside critical section
+1-38:end of critical section
+1-39:Non-critical Section
+2-38:Critical section
+2-38:Inside critical section
+2-38:end of critical section
+2-39:Non-critical Section
+3-38:Critical section
+3-38:Inside critical section
+3-38:end of critical section
+3-39:Non-critical Section
+4-38:Critical section
+4-38:Inside critical section
+4-38:end of critical section
+4-39:Non-critical Section
+5-38:Critical section
+5-38:Inside critical section
+5-38:end of critical section
+5-39:Non-critical Section
+6-38:Critical section
+6-38:Inside critical section
+6-38:end of critical section
+6-39:Non-critical Section
+7-38:Critical section
+7-38:Inside critical section
+7-38:end of critical section
+7-39:Non-critical Section
+0-39:Critical section
+0-39:Inside critical section
+0-39:end of critical section
+0-40:Non-critical Section
+1-39:Critical section
+1-39:Inside critical section
+1-39:end of critical section
+1-40:Non-critical Section
+2-39:Critical section
+2-39:Inside critical section
+2-39:end of critical section
+2-40:Non-critical Section
+3-39:Critical section
+3-39:Inside critical section
+3-39:end of critical section
+3-40:Non-critical Section
+4-39:Critical section
+4-39:Inside critical section
+4-39:end of critical section
+4-40:Non-critical Section
+5-39:Critical section
+5-39:Inside critical section
+5-39:end of critical section
+5-40:Non-critical Section
+6-39:Critical section
+6-39:Inside critical section
+6-39:end of critical section
+6-40:Non-critical Section
+7-39:Critical section
+7-39:Inside critical section
+7-39:end of critical section
+7-40:Non-critical Section
+0-40:Critical section
+0-40:Inside critical section
+0-40:end of critical section
+0-41:Non-critical Section
+1-40:Critical section
+1-40:Inside critical section
+1-40:end of critical section
+1-41:Non-critical Section
+2-40:Critical section
+2-40:Inside critical section
+2-40:end of critical section
+2-41:Non-critical Section
+3-40:Critical section
+3-40:Inside critical section
+3-40:end of critical section
+3-41:Non-critical Section
+4-40:Critical section
+4-40:Inside critical section
+4-40:end of critical section
+4-41:Non-critical Section
+5-40:Critical section
+5-40:Inside critical section
+5-40:end of critical section
+5-41:Non-critical Section
+6-40:Critical section
+6-40:Inside critical section
+6-40:end of critical section
+6-41:Non-critical Section
+7-40:Critical section
+7-40:Inside critical section
+7-40:end of critical section
+7-41:Non-critical Section
+0-41:Critical section
+0-41:Inside critical section
+0-41:end of critical section
+0-42:Non-critical Section
+1-41:Critical section
+1-41:Inside critical section
+1-41:end of critical section
+1-42:Non-critical Section
+2-41:Critical section
+2-41:Inside critical section
+2-41:end of critical section
+2-42:Non-critical Section
+3-41:Critical section
+3-41:Inside critical section
+3-41:end of critical section
+3-42:Non-critical Section
+4-41:Critical section
+4-41:Inside critical section
+4-41:end of critical section
+4-42:Non-critical Section
+5-41:Critical section
+5-41:Inside critical section
+5-41:end of critical section
+5-42:Non-critical Section
+6-41:Critical section
+6-41:Inside critical section
+6-41:end of critical section
+6-42:Non-critical Section
+7-41:Critical section
+7-41:Inside critical section
+7-41:end of critical section
+7-42:Non-critical Section
+0-42:Critical section
+0-42:Inside critical section
+0-42:end of critical section
+0-43:Non-critical Section
+1-42:Critical section
+1-42:Inside critical section
+1-42:end of critical section
+1-43:Non-critical Section
+2-42:Critical section
+2-42:Inside critical section
+2-42:end of critical section
+2-43:Non-critical Section
+3-42:Critical section
+3-42:Inside critical section
+3-42:end of critical section
+3-43:Non-critical Section
+4-42:Critical section
+4-42:Inside critical section
+4-42:end of critical section
+4-43:Non-critical Section
+5-42:Critical section
+5-42:Inside critical section
+5-42:end of critical section
+5-43:Non-critical Section
+6-42:Critical section
+6-42:Inside critical section
+6-42:end of critical section
+6-43:Non-critical Section
+7-42:Critical section
+7-42:Inside critical section
+7-42:end of critical section
+7-43:Non-critical Section
+0-43:Critical section
+0-43:Inside critical section
+0-43:end of critical section
+0-44:Non-critical Section
+1-43:Critical section
+1-43:Inside critical section
+1-43:end of critical section
+1-44:Non-critical Section
+2-43:Critical section
+2-43:Inside critical section
+2-43:end of critical section
+2-44:Non-critical Section
+3-43:Critical section
+3-43:Inside critical section
+3-43:end of critical section
+3-44:Non-critical Section
+4-43:Critical section
+4-43:Inside critical section
+4-43:end of critical section
+4-44:Non-critical Section
+5-43:Critical section
+5-43:Inside critical section
+5-43:end of critical section
+5-44:Non-critical Section
+6-43:Critical section
+6-43:Inside critical section
+6-43:end of critical section
+6-44:Non-critical Section
+7-43:Critical section
+7-43:Inside critical section
+7-43:end of critical section
+7-44:Non-critical Section
+0-44:Critical section
+0-44:Inside critical section
+0-44:end of critical section
+0-45:Non-critical Section
+1-44:Critical section
+1-44:Inside critical section
+1-44:end of critical section
+1-45:Non-critical Section
+2-44:Critical section
+2-44:Inside critical section
+2-44:end of critical section
+2-45:Non-critical Section
+3-44:Critical section
+3-44:Inside critical section
+3-44:end of critical section
+3-45:Non-critical Section
+4-44:Critical section
+4-44:Inside critical section
+4-44:end of critical section
+4-45:Non-critical Section
+5-44:Critical section
+5-44:Inside critical section
+5-44:end of critical section
+6-44:Critical section
+5-45:Non-critical Section
+6-44:Inside critical section
+6-44:end of critical section
+6-45:Non-critical Section
+7-44:Critical section
+7-44:Inside critical section
+7-44:end of critical section
+7-45:Non-critical Section
+0-45:Critical section
+0-45:Inside critical section
+0-45:end of critical section
+0-46:Non-critical Section
+1-45:Critical section
+1-45:Inside critical section
+1-45:end of critical section
+1-46:Non-critical Section
+2-45:Critical section
+2-45:Inside critical section
+2-45:end of critical section
+2-46:Non-critical Section
+3-45:Critical section
+3-45:Inside critical section
+3-45:end of critical section
+3-46:Non-critical Section
+4-45:Critical section
+4-45:Inside critical section
+4-45:end of critical section
+4-46:Non-critical Section
+5-45:Critical section
+5-45:Inside critical section
+5-45:end of critical section
+5-46:Non-critical Section
+6-45:Critical section
+6-45:Inside critical section
+6-45:end of critical section
+6-46:Non-critical Section
+7-45:Critical section
+7-45:Inside critical section
+7-45:end of critical section
+7-46:Non-critical Section
+0-46:Critical section
+0-46:Inside critical section
+0-46:end of critical section
+0-47:Non-critical Section
+1-46:Critical section
+1-46:Inside critical section
+1-46:end of critical section
+1-47:Non-critical Section
+2-46:Critical section
+2-46:Inside critical section
+2-46:end of critical section
+2-47:Non-critical Section
+3-46:Critical section
+3-46:Inside critical section
+3-46:end of critical section
+3-47:Non-critical Section
+4-46:Critical section
+4-46:Inside critical section
+4-46:end of critical section
+4-47:Non-critical Section
+5-46:Critical section
+5-46:Inside critical section
+5-46:end of critical section
+5-47:Non-critical Section
+6-46:Critical section
+6-46:Inside critical section
+6-46:end of critical section
+6-47:Non-critical Section
+7-46:Critical section
+7-46:Inside critical section
+7-46:end of critical section
+7-47:Non-critical Section
+0-47:Critical section
+0-47:Inside critical section
+0-47:end of critical section
+0-48:Non-critical Section
+1-47:Critical section
+1-47:Inside critical section
+1-47:end of critical section
+1-48:Non-critical Section
+2-47:Critical section
+2-47:Inside critical section
+2-47:end of critical section
+2-48:Non-critical Section
+3-47:Critical section
+3-47:Inside critical section
+3-47:end of critical section
+3-48:Non-critical Section
+4-47:Critical section
+4-47:Inside critical section
+4-47:end of critical section
+4-48:Non-critical Section
+5-47:Critical section
+5-47:Inside critical section
+5-47:end of critical section
+5-48:Non-critical Section
+6-47:Critical section
+6-47:Inside critical section
+6-47:end of critical section
+7-47:Critical section
+6-48:Non-critical Section
+7-47:Inside critical section
+7-47:end of critical section
+7-48:Non-critical Section
+0-48:Critical section
+0-48:Inside critical section
+0-48:end of critical section
+0-49:Non-critical Section
+1-48:Critical section
+1-48:Inside critical section
+1-48:end of critical section
+1-49:Non-critical Section
+2-48:Critical section
+2-48:Inside critical section
+2-48:end of critical section
+2-49:Non-critical Section
+3-48:Critical section
+3-48:Inside critical section
+3-48:end of critical section
+3-49:Non-critical Section
+4-48:Critical section
+4-48:Inside critical section
+4-48:end of critical section
+4-49:Non-critical Section
+5-48:Critical section
+5-48:Inside critical section
+5-48:end of critical section
+5-49:Non-critical Section
+6-48:Critical section
+6-48:Inside critical section
+6-48:end of critical section
+6-49:Non-critical Section
+7-48:Critical section
+7-48:Inside critical section
+7-48:end of critical section
+7-49:Non-critical Section
+0-49:Critical section
+0-49:Inside critical section
+0-49:end of critical section
+0-50:Non-critical Section
+1-49:Critical section
+1-49:Inside critical section
+1-49:end of critical section
+1-50:Non-critical Section
+2-49:Critical section
+2-49:Inside critical section
+2-49:end of critical section
+2-50:Non-critical Section
+3-49:Critical section
+3-49:Inside critical section
+3-49:end of critical section
+3-50:Non-critical Section
+4-49:Critical section
+4-49:Inside critical section
+4-49:end of critical section
+4-50:Non-critical Section
+5-49:Critical section
+5-49:Inside critical section
+5-49:end of critical section
+5-50:Non-critical Section
+6-49:Critical section
+6-49:Inside critical section
+6-49:end of critical section
+6-50:Non-critical Section
+7-49:Critical section
+7-49:Inside critical section
+7-49:end of critical section
+0-50:Critical section
+7-50:Non-critical Section
+0-50:Inside critical section
+0-50:end of critical section
+0-51:Non-critical Section
+1-50:Critical section
+1-50:Inside critical section
+1-50:end of critical section
+1-51:Non-critical Section
+2-50:Critical section
+2-50:Inside critical section
+2-50:end of critical section
+2-51:Non-critical Section
+3-50:Critical section
+3-50:Inside critical section
+3-50:end of critical section
+3-51:Non-critical Section
+4-50:Critical section
+4-50:Inside critical section
+4-50:end of critical section
+4-51:Non-critical Section
+5-50:Critical section
+5-50:Inside critical section
+5-50:end of critical section
+5-51:Non-critical Section
+6-50:Critical section
+6-50:Inside critical section
+6-50:end of critical section
+6-51:Non-critical Section
+7-50:Critical section
+7-50:Inside critical section
+7-50:end of critical section
+7-51:Non-critical Section
+0-51:Critical section
+0-51:Inside critical section
+0-51:end of critical section
+0-52:Non-critical Section
+1-51:Critical section
+1-51:Inside critical section
+1-51:end of critical section
+1-52:Non-critical Section
+2-51:Critical section
+2-51:Inside critical section
+2-51:end of critical section
+2-52:Non-critical Section
+3-51:Critical section
+3-51:Inside critical section
+3-51:end of critical section
+3-52:Non-critical Section
+4-51:Critical section
+4-51:Inside critical section
+4-51:end of critical section
+4-52:Non-critical Section
+5-51:Critical section
+5-51:Inside critical section
+5-51:end of critical section
+5-52:Non-critical Section
+6-51:Critical section
+6-51:Inside critical section
+6-51:end of critical section
+6-52:Non-critical Section
+7-51:Critical section
+7-51:Inside critical section
+7-51:end of critical section
+7-52:Non-critical Section
+0-52:Critical section
+0-52:Inside critical section
+0-52:end of critical section
+0-53:Non-critical Section
+1-52:Critical section
+1-52:Inside critical section
+1-52:end of critical section
+1-53:Non-critical Section
+2-52:Critical section
+2-52:Inside critical section
+2-52:end of critical section
+2-53:Non-critical Section
+3-52:Critical section
+3-52:Inside critical section
+3-52:end of critical section
+3-53:Non-critical Section
+4-52:Critical section
+4-52:Inside critical section
+4-52:end of critical section
+4-53:Non-critical Section
+5-52:Critical section
+5-52:Inside critical section
+5-52:end of critical section
+5-53:Non-critical Section
+6-52:Critical section
+6-52:Inside critical section
+6-52:end of critical section
+6-53:Non-critical Section
+7-52:Critical section
+7-52:Inside critical section
+7-52:end of critical section
+7-53:Non-critical Section
+0-53:Critical section
+0-53:Inside critical section
+0-53:end of critical section
+0-54:Non-critical Section
+1-53:Critical section
+1-53:Inside critical section
+1-53:end of critical section
+1-54:Non-critical Section
+2-53:Critical section
+2-53:Inside critical section
+2-53:end of critical section
+3-53:Critical section
+2-54:Non-critical Section
+3-53:Inside critical section
+3-53:end of critical section
+3-54:Non-critical Section
+4-53:Critical section
+4-53:Inside critical section
+4-53:end of critical section
+4-54:Non-critical Section
+5-53:Critical section
+5-53:Inside critical section
+5-53:end of critical section
+5-54:Non-critical Section
+6-53:Critical section
+6-53:Inside critical section
+6-53:end of critical section
+6-54:Non-critical Section
+7-53:Critical section
+7-53:Inside critical section
+7-53:end of critical section
+7-54:Non-critical Section
+0-54:Critical section
+0-54:Inside critical section
+0-54:end of critical section
+0-55:Non-critical Section
+1-54:Critical section
+1-54:Inside critical section
+1-54:end of critical section
+1-55:Non-critical Section
+2-54:Critical section
+2-54:Inside critical section
+2-54:end of critical section
+2-55:Non-critical Section
+3-54:Critical section
+3-54:Inside critical section
+3-54:end of critical section
+3-55:Non-critical Section
+4-54:Critical section
+4-54:Inside critical section
+4-54:end of critical section
+4-55:Non-critical Section
+5-54:Critical section
+5-54:Inside critical section
+5-54:end of critical section
+5-55:Non-critical Section
+6-54:Critical section
+6-54:Inside critical section
+6-54:end of critical section
+6-55:Non-critical Section
+7-54:Critical section
+7-54:Inside critical section
+7-54:end of critical section
+7-55:Non-critical Section
+0-55:Critical section
+0-55:Inside critical section
+0-55:end of critical section
+0-56:Non-critical Section
+1-55:Critical section
+1-55:Inside critical section
+1-55:end of critical section
+1-56:Non-critical Section
+2-55:Critical section
+2-55:Inside critical section
+2-55:end of critical section
+2-56:Non-critical Section
+3-55:Critical section
+3-55:Inside critical section
+3-55:end of critical section
+3-56:Non-critical Section
+4-55:Critical section
+4-55:Inside critical section
+4-55:end of critical section
+4-56:Non-critical Section
+5-55:Critical section
+5-55:Inside critical section
+5-55:end of critical section
+5-56:Non-critical Section
+6-55:Critical section
+6-55:Inside critical section
+6-55:end of critical section
+6-56:Non-critical Section
+7-55:Critical section
+7-55:Inside critical section
+7-55:end of critical section
+7-56:Non-critical Section
+0-56:Critical section
+0-56:Inside critical section
+0-56:end of critical section
+0-57:Non-critical Section
+1-56:Critical section
+1-56:Inside critical section
+1-56:end of critical section
+1-57:Non-critical Section
+2-56:Critical section
+2-56:Inside critical section
+2-56:end of critical section
+2-57:Non-critical Section
+3-56:Critical section
+3-56:Inside critical section
+3-56:end of critical section
+3-57:Non-critical Section
+4-56:Critical section
+4-56:Inside critical section
+4-56:end of critical section
+4-57:Non-critical Section
+5-56:Critical section
+5-56:Inside critical section
+5-56:end of critical section
+5-57:Non-critical Section
+6-56:Critical section
+6-56:Inside critical section
+6-56:end of critical section
+6-57:Non-critical Section
+7-56:Critical section
+7-56:Inside critical section
+7-56:end of critical section
+7-57:Non-critical Section
+0-57:Critical section
+0-57:Inside critical section
+0-57:end of critical section
+0-58:Non-critical Section
+1-57:Critical section
+1-57:Inside critical section
+1-57:end of critical section
+1-58:Non-critical Section
+2-57:Critical section
+2-57:Inside critical section
+2-57:end of critical section
+2-58:Non-critical Section
+3-57:Critical section
+3-57:Inside critical section
+3-57:end of critical section
+3-58:Non-critical Section
+4-57:Critical section
+4-57:Inside critical section
+4-57:end of critical section
+4-58:Non-critical Section
+5-57:Critical section
+5-57:Inside critical section
+5-57:end of critical section
+5-58:Non-critical Section
+6-57:Critical section
+6-57:Inside critical section
+6-57:end of critical section
+6-58:Non-critical Section
+7-57:Critical section
+7-57:Inside critical section
+7-57:end of critical section
+7-58:Non-critical Section
+0-58:Critical section
+0-58:Inside critical section
+0-58:end of critical section
+0-59:Non-critical Section
+1-58:Critical section
+1-58:Inside critical section
+1-58:end of critical section
+1-59:Non-critical Section
+2-58:Critical section
+2-58:Inside critical section
+2-58:end of critical section
+2-59:Non-critical Section
+3-58:Critical section
+3-58:Inside critical section
+3-58:end of critical section
+3-59:Non-critical Section
+4-58:Critical section
+4-58:Inside critical section
+4-58:end of critical section
+4-59:Non-critical Section
+5-58:Critical section
+5-58:Inside critical section
+5-58:end of critical section
+5-59:Non-critical Section
+6-58:Critical section
+6-58:Inside critical section
+6-58:end of critical section
+6-59:Non-critical Section
+7-58:Critical section
+7-58:Inside critical section
+7-58:end of critical section
+7-59:Non-critical Section
+0-59:Critical section
+0-59:Inside critical section
+0-59:end of critical section
+1-59:Critical section
+0-60:Non-critical Section
+1-59:Inside critical section
+1-59:end of critical section
+1-60:Non-critical Section
+2-59:Critical section
+2-59:Inside critical section
+2-59:end of critical section
+2-60:Non-critical Section
+3-59:Critical section
+3-59:Inside critical section
+3-59:end of critical section
+3-60:Non-critical Section
+4-59:Critical section
+4-59:Inside critical section
+4-59:end of critical section
+4-60:Non-critical Section
+5-59:Critical section
+5-59:Inside critical section
+5-59:end of critical section
+5-60:Non-critical Section
+6-59:Critical section
+6-59:Inside critical section
+6-59:end of critical section
+6-60:Non-critical Section
+7-59:Critical section
+7-59:Inside critical section
+7-59:end of critical section
+7-60:Non-critical Section
+0-60:Critical section
+0-60:Inside critical section
+0-60:end of critical section
+0-61:Non-critical Section
+1-60:Critical section
+1-60:Inside critical section
+1-60:end of critical section
+1-61:Non-critical Section
+2-60:Critical section
+2-60:Inside critical section
+2-60:end of critical section
+2-61:Non-critical Section
+3-60:Critical section
+3-60:Inside critical section
+3-60:end of critical section
+4-60:Critical section
+4-60:Inside critical section
+3-61:Non-critical Section
+4-60:end of critical section
+4-61:Non-critical Section
+5-60:Critical section
+5-60:Inside critical section
+5-60:end of critical section
+5-61:Non-critical Section
+6-60:Critical section
+6-60:Inside critical section
+6-60:end of critical section
+6-61:Non-critical Section
+7-60:Critical section
+7-60:Inside critical section
+7-60:end of critical section
+7-61:Non-critical Section
+0-61:Critical section
+0-61:Inside critical section
+0-61:end of critical section
+0-62:Non-critical Section
+1-61:Critical section
+1-61:Inside critical section
+1-61:end of critical section
+1-62:Non-critical Section
+2-61:Critical section
+2-61:Inside critical section
+2-61:end of critical section
+2-62:Non-critical Section
+3-61:Critical section
+3-61:Inside critical section
+3-61:end of critical section
+3-62:Non-critical Section
+4-61:Critical section
+4-61:Inside critical section
+4-61:end of critical section
+4-62:Non-critical Section
+5-61:Critical section
+5-61:Inside critical section
+5-61:end of critical section
+5-62:Non-critical Section
+6-61:Critical section
+6-61:Inside critical section
+6-61:end of critical section
+6-62:Non-critical Section
+7-61:Critical section
+7-61:Inside critical section
+7-61:end of critical section
+7-62:Non-critical Section
+0-62:Critical section
+0-62:Inside critical section
+0-62:end of critical section
+0-63:Non-critical Section
+1-62:Critical section
+1-62:Inside critical section
+1-62:end of critical section
+1-63:Non-critical Section
+2-62:Critical section
+2-62:Inside critical section
+2-62:end of critical section
+2-63:Non-critical Section
+3-62:Critical section
+3-62:Inside critical section
+3-62:end of critical section
+3-63:Non-critical Section
+4-62:Critical section
+4-62:Inside critical section
+4-62:end of critical section
+4-63:Non-critical Section
+5-62:Critical section
+5-62:Inside critical section
+5-62:end of critical section
+5-63:Non-critical Section
+6-62:Critical section
+6-62:Inside critical section
+6-62:end of critical section
+6-63:Non-critical Section
+7-62:Critical section
+7-62:Inside critical section
+7-62:end of critical section
+7-63:Non-critical Section
+0-63:Critical section
+0-63:Inside critical section
+0-63:end of critical section
+0-64:Non-critical Section
+1-63:Critical section
+1-63:Inside critical section
+1-63:end of critical section
+1-64:Non-critical Section
+2-63:Critical section
+2-63:Inside critical section
+2-63:end of critical section
+2-64:Non-critical Section
+3-63:Critical section
+3-63:Inside critical section
+3-63:end of critical section
+3-64:Non-critical Section
+4-63:Critical section
+4-63:Inside critical section
+4-63:end of critical section
+4-64:Non-critical Section
+5-63:Critical section
+5-63:Inside critical section
+5-63:end of critical section
+5-64:Non-critical Section
+6-63:Critical section
+6-63:Inside critical section
+6-63:end of critical section
+6-64:Non-critical Section
+7-63:Critical section
+7-63:Inside critical section
+7-63:end of critical section
+7-64:Non-critical Section
+0-64:Critical section
+0-64:Inside critical section
+0-64:end of critical section
+0-65:Non-critical Section
+1-64:Critical section
+1-64:Inside critical section
+1-64:end of critical section
+1-65:Non-critical Section
+2-64:Critical section
+2-64:Inside critical section
+2-64:end of critical section
+2-65:Non-critical Section
+3-64:Critical section
+3-64:Inside critical section
+3-64:end of critical section
+3-65:Non-critical Section
+4-64:Critical section
+4-64:Inside critical section
+4-64:end of critical section
+4-65:Non-critical Section
+5-64:Critical section
+5-64:Inside critical section
+5-64:end of critical section
+5-65:Non-critical Section
+6-64:Critical section
+6-64:Inside critical section
+6-64:end of critical section
+6-65:Non-critical Section
+7-64:Critical section
+7-64:Inside critical section
+7-64:end of critical section
+7-65:Non-critical Section
+0-65:Critical section
+0-65:Inside critical section
+0-65:end of critical section
+0-66:Non-critical Section
+1-65:Critical section
+1-65:Inside critical section
+1-65:end of critical section
+1-66:Non-critical Section
+2-65:Critical section
+2-65:Inside critical section
+2-65:end of critical section
+2-66:Non-critical Section
+3-65:Critical section
+3-65:Inside critical section
+3-65:end of critical section
+3-66:Non-critical Section
+4-65:Critical section
+4-65:Inside critical section
+4-65:end of critical section
+4-66:Non-critical Section
+5-65:Critical section
+5-65:Inside critical section
+5-65:end of critical section
+5-66:Non-critical Section
+6-65:Critical section
+6-65:Inside critical section
+6-65:end of critical section
+6-66:Non-critical Section
+7-65:Critical section
+7-65:Inside critical section
+7-65:end of critical section
+7-66:Non-critical Section
+0-66:Critical section
+0-66:Inside critical section
+0-66:end of critical section
+0-67:Non-critical Section
+1-66:Critical section
+1-66:Inside critical section
+1-66:end of critical section
+1-67:Non-critical Section
+2-66:Critical section
+2-66:Inside critical section
+2-66:end of critical section
+2-67:Non-critical Section
+3-66:Critical section
+3-66:Inside critical section
+3-66:end of critical section
+3-67:Non-critical Section
+4-66:Critical section
+4-66:Inside critical section
+4-66:end of critical section
+4-67:Non-critical Section
+5-66:Critical section
+5-66:Inside critical section
+5-66:end of critical section
+5-67:Non-critical Section
+6-66:Critical section
+6-66:Inside critical section
+6-66:end of critical section
+6-67:Non-critical Section
+7-66:Critical section
+7-66:Inside critical section
+7-66:end of critical section
+7-67:Non-critical Section
+0-67:Critical section
+0-67:Inside critical section
+0-67:end of critical section
+0-68:Non-critical Section
+1-67:Critical section
+1-67:Inside critical section
+1-67:end of critical section
+1-68:Non-critical Section
+2-67:Critical section
+2-67:Inside critical section
+2-67:end of critical section
+2-68:Non-critical Section
+3-67:Critical section
+3-67:Inside critical section
+3-67:end of critical section
+3-68:Non-critical Section
+4-67:Critical section
+4-67:Inside critical section
+4-67:end of critical section
+4-68:Non-critical Section
+5-67:Critical section
+5-67:Inside critical section
+5-67:end of critical section
+5-68:Non-critical Section
+6-67:Critical section
+6-67:Inside critical section
+6-67:end of critical section
+7-67:Critical section
+6-68:Non-critical Section
+7-67:Inside critical section
+7-67:end of critical section
+7-68:Non-critical Section
+0-68:Critical section
+0-68:Inside critical section
+0-68:end of critical section
+0-69:Non-critical Section
+1-68:Critical section
+1-68:Inside critical section
+1-68:end of critical section
+1-69:Non-critical Section
+2-68:Critical section
+2-68:Inside critical section
+2-68:end of critical section
+2-69:Non-critical Section
+3-68:Critical section
+3-68:Inside critical section
+3-68:end of critical section
+3-69:Non-critical Section
+4-68:Critical section
+4-68:Inside critical section
+4-68:end of critical section
+4-69:Non-critical Section
+5-68:Critical section
+5-68:Inside critical section
+5-68:end of critical section
+5-69:Non-critical Section
+6-68:Critical section
+6-68:Inside critical section
+6-68:end of critical section
+6-69:Non-critical Section
+7-68:Critical section
+7-68:Inside critical section
+7-68:end of critical section
+7-69:Non-critical Section
+0-69:Critical section
+0-69:Inside critical section
+0-69:end of critical section
+0-70:Non-critical Section
+1-69:Critical section
+1-69:Inside critical section
+1-69:end of critical section
+1-70:Non-critical Section
+2-69:Critical section
+2-69:Inside critical section
+2-69:end of critical section
+2-70:Non-critical Section
+3-69:Critical section
+3-69:Inside critical section
+3-69:end of critical section
+3-70:Non-critical Section
+4-69:Critical section
+4-69:Inside critical section
+4-69:end of critical section
+4-70:Non-critical Section
+5-69:Critical section
+5-69:Inside critical section
+5-69:end of critical section
+5-70:Non-critical Section
+6-69:Critical section
+6-69:Inside critical section
+6-69:end of critical section
+6-70:Non-critical Section
+7-69:Critical section
+7-69:Inside critical section
+7-69:end of critical section
+7-70:Non-critical Section
+0-70:Critical section
+0-70:Inside critical section
+0-70:end of critical section
+0-71:Non-critical Section
+1-70:Critical section
+1-70:Inside critical section
+1-70:end of critical section
+1-71:Non-critical Section
+2-70:Critical section
+2-70:Inside critical section
+2-70:end of critical section
+2-71:Non-critical Section
+3-70:Critical section
+3-70:Inside critical section
+3-70:end of critical section
+3-71:Non-critical Section
+4-70:Critical section
+4-70:Inside critical section
+4-70:end of critical section
+4-71:Non-critical Section
+5-70:Critical section
+5-70:Inside critical section
+5-70:end of critical section
+5-71:Non-critical Section
+6-70:Critical section
+6-70:Inside critical section
+6-70:end of critical section
+6-71:Non-critical Section
+7-70:Critical section
+7-70:Inside critical section
+7-70:end of critical section
+7-71:Non-critical Section
+0-71:Critical section
+0-71:Inside critical section
+0-71:end of critical section
+0-72:Non-critical Section
+1-71:Critical section
+1-71:Inside critical section
+1-71:end of critical section
+1-72:Non-critical Section
+2-71:Critical section
+2-71:Inside critical section
+2-71:end of critical section
+2-72:Non-critical Section
+3-71:Critical section
+3-71:Inside critical section
+3-71:end of critical section
+3-72:Non-critical Section
+4-71:Critical section
+4-71:Inside critical section
+4-71:end of critical section
+4-72:Non-critical Section
+5-71:Critical section
+5-71:Inside critical section
+5-71:end of critical section
+6-71:Critical section
+6-71:Inside critical section
+5-72:Non-critical Section
+6-71:end of critical section
+6-72:Non-critical Section
+7-71:Critical section
+7-71:Inside critical section
+7-71:end of critical section
+7-72:Non-critical Section
+0-72:Critical section
+0-72:Inside critical section
+0-72:end of critical section
+0-73:Non-critical Section
+1-72:Critical section
+1-72:Inside critical section
+1-72:end of critical section
+1-73:Non-critical Section
+2-72:Critical section
+2-72:Inside critical section
+2-72:end of critical section
+2-73:Non-critical Section
+3-72:Critical section
+3-72:Inside critical section
+3-72:end of critical section
+3-73:Non-critical Section
+4-72:Critical section
+4-72:Inside critical section
+4-72:end of critical section
+4-73:Non-critical Section
+5-72:Critical section
+5-72:Inside critical section
+5-72:end of critical section
+5-73:Non-critical Section
+6-72:Critical section
+6-72:Inside critical section
+6-72:end of critical section
+6-73:Non-critical Section
+7-72:Critical section
+7-72:Inside critical section
+7-72:end of critical section
+7-73:Non-critical Section
+0-73:Critical section
+0-73:Inside critical section
+0-73:end of critical section
+0-74:Non-critical Section
+1-73:Critical section
+1-73:Inside critical section
+1-73:end of critical section
+1-74:Non-critical Section
+2-73:Critical section
+2-73:Inside critical section
+2-73:end of critical section
+2-74:Non-critical Section
+3-73:Critical section
+3-73:Inside critical section
+3-73:end of critical section
+3-74:Non-critical Section
+4-73:Critical section
+4-73:Inside critical section
+4-73:end of critical section
+4-74:Non-critical Section
+5-73:Critical section
+5-73:Inside critical section
+5-73:end of critical section
+5-74:Non-critical Section
+6-73:Critical section
+6-73:Inside critical section
+6-73:end of critical section
+6-74:Non-critical Section
+7-73:Critical section
+7-73:Inside critical section
+7-73:end of critical section
+7-74:Non-critical Section
+0-74:Critical section
+0-74:Inside critical section
+0-74:end of critical section
+0-75:Non-critical Section
+1-74:Critical section
+1-74:Inside critical section
+1-74:end of critical section
+1-75:Non-critical Section
+2-74:Critical section
+2-74:Inside critical section
+2-74:end of critical section
+2-75:Non-critical Section
+3-74:Critical section
+3-74:Inside critical section
+3-74:end of critical section
+3-75:Non-critical Section
+4-74:Critical section
+4-74:Inside critical section
+4-74:end of critical section
+4-75:Non-critical Section
+5-74:Critical section
+5-74:Inside critical section
+5-74:end of critical section
+5-75:Non-critical Section
+6-74:Critical section
+6-74:Inside critical section
+6-74:end of critical section
+6-75:Non-critical Section
+7-74:Critical section
+7-74:Inside critical section
+7-74:end of critical section
+7-75:Non-critical Section
+0-75:Critical section
+0-75:Inside critical section
+0-75:end of critical section
+0-76:Non-critical Section
+1-75:Critical section
+1-75:Inside critical section
+1-75:end of critical section
+1-76:Non-critical Section
+2-75:Critical section
+2-75:Inside critical section
+2-75:end of critical section
+2-76:Non-critical Section
+3-75:Critical section
+3-75:Inside critical section
+3-75:end of critical section
+3-76:Non-critical Section
+4-75:Critical section
+4-75:Inside critical section
+4-75:end of critical section
+4-76:Non-critical Section
+5-75:Critical section
+5-75:Inside critical section
+5-75:end of critical section
+5-76:Non-critical Section
+6-75:Critical section
+6-75:Inside critical section
+6-75:end of critical section
+6-76:Non-critical Section
+7-75:Critical section
+7-75:Inside critical section
+7-75:end of critical section
+7-76:Non-critical Section
+0-76:Critical section
+0-76:Inside critical section
+0-76:end of critical section
+0-77:Non-critical Section
+1-76:Critical section
+1-76:Inside critical section
+1-76:end of critical section
+2-76:Critical section
+2-76:Inside critical section
+1-77:Non-critical Section
+2-76:end of critical section
+2-77:Non-critical Section
+3-76:Critical section
+3-76:Inside critical section
+3-76:end of critical section
+3-77:Non-critical Section
+4-76:Critical section
+4-76:Inside critical section
+4-76:end of critical section
+4-77:Non-critical Section
+5-76:Critical section
+5-76:Inside critical section
+5-76:end of critical section
+5-77:Non-critical Section
+6-76:Critical section
+6-76:Inside critical section
+6-76:end of critical section
+6-77:Non-critical Section
+7-76:Critical section
+7-76:Inside critical section
+7-76:end of critical section
+7-77:Non-critical Section
+0-77:Critical section
+0-77:Inside critical section
+0-77:end of critical section
+0-78:Non-critical Section
+1-77:Critical section
+1-77:Inside critical section
+1-77:end of critical section
+1-78:Non-critical Section
+2-77:Critical section
+2-77:Inside critical section
+2-77:end of critical section
+2-78:Non-critical Section
+3-77:Critical section
+3-77:Inside critical section
+3-77:end of critical section
+3-78:Non-critical Section
+4-77:Critical section
+4-77:Inside critical section
+4-77:end of critical section
+4-78:Non-critical Section
+5-77:Critical section
+5-77:Inside critical section
+5-77:end of critical section
+5-78:Non-critical Section
+6-77:Critical section
+6-77:Inside critical section
+6-77:end of critical section
+6-78:Non-critical Section
+7-77:Critical section
+7-77:Inside critical section
+7-77:end of critical section
+7-78:Non-critical Section
+0-78:Critical section
+0-78:Inside critical section
+0-78:end of critical section
+0-79:Non-critical Section
+1-78:Critical section
+1-78:Inside critical section
+1-78:end of critical section
+1-79:Non-critical Section
+2-78:Critical section
+2-78:Inside critical section
+2-78:end of critical section
+2-79:Non-critical Section
+3-78:Critical section
+3-78:Inside critical section
+3-78:end of critical section
+3-79:Non-critical Section
+4-78:Critical section
+4-78:Inside critical section
+4-78:end of critical section
+4-79:Non-critical Section
+5-78:Critical section
+5-78:Inside critical section
+5-78:end of critical section
+5-79:Non-critical Section
+6-78:Critical section
+6-78:Inside critical section
+6-78:end of critical section
+7-78:Critical section
+6-79:Non-critical Section
+7-78:Inside critical section
+7-78:end of critical section
+7-79:Non-critical Section
+0-79:Critical section
+0-79:Inside critical section
+0-79:end of critical section
+0-80:Non-critical Section
+1-79:Critical section
+1-79:Inside critical section
+1-79:end of critical section
+1-80:Non-critical Section
+2-79:Critical section
+2-79:Inside critical section
+2-79:end of critical section
+2-80:Non-critical Section
+3-79:Critical section
+3-79:Inside critical section
+3-79:end of critical section
+3-80:Non-critical Section
+4-79:Critical section
+4-79:Inside critical section
+4-79:end of critical section
+4-80:Non-critical Section
+5-79:Critical section
+5-79:Inside critical section
+5-79:end of critical section
+5-80:Non-critical Section
+6-79:Critical section
+6-79:Inside critical section
+6-79:end of critical section
+6-80:Non-critical Section
+7-79:Critical section
+7-79:Inside critical section
+7-79:end of critical section
+7-80:Non-critical Section
+0-80:Critical section
+0-80:Inside critical section
+0-80:end of critical section
+0-81:Non-critical Section
+1-80:Critical section
+1-80:Inside critical section
+1-80:end of critical section
+1-81:Non-critical Section
+2-80:Critical section
+2-80:Inside critical section
+2-80:end of critical section
+2-81:Non-critical Section
+3-80:Critical section
+3-80:Inside critical section
+3-80:end of critical section
+3-81:Non-critical Section
+4-80:Critical section
+4-80:Inside critical section
+4-80:end of critical section
+4-81:Non-critical Section
+5-80:Critical section
+5-80:Inside critical section
+5-80:end of critical section
+5-81:Non-critical Section
+6-80:Critical section
+6-80:Inside critical section
+6-80:end of critical section
+6-81:Non-critical Section
+7-80:Critical section
+7-80:Inside critical section
+7-80:end of critical section
+7-81:Non-critical Section
+0-81:Critical section
+0-81:Inside critical section
+0-81:end of critical section
+0-82:Non-critical Section
+1-81:Critical section
+1-81:Inside critical section
+1-81:end of critical section
+2-81:Critical section
+1-82:Non-critical Section
+2-81:Inside critical section
+2-81:end of critical section
+2-82:Non-critical Section
+3-81:Critical section
+3-81:Inside critical section
+3-81:end of critical section
+3-82:Non-critical Section
+4-81:Critical section
+4-81:Inside critical section
+4-81:end of critical section
+4-82:Non-critical Section
+5-81:Critical section
+5-81:Inside critical section
+5-81:end of critical section
+5-82:Non-critical Section
+6-81:Critical section
+6-81:Inside critical section
+6-81:end of critical section
+6-82:Non-critical Section
+7-81:Critical section
+7-81:Inside critical section
+7-81:end of critical section
+7-82:Non-critical Section
+0-82:Critical section
+0-82:Inside critical section
+0-82:end of critical section
+0-83:Non-critical Section
+1-82:Critical section
+1-82:Inside critical section
+1-82:end of critical section
+1-83:Non-critical Section
+2-82:Critical section
+2-82:Inside critical section
+2-82:end of critical section
+2-83:Non-critical Section
+3-82:Critical section
+3-82:Inside critical section
+3-82:end of critical section
+3-83:Non-critical Section
+4-82:Critical section
+4-82:Inside critical section
+4-82:end of critical section
+4-83:Non-critical Section
+5-82:Critical section
+5-82:Inside critical section
+5-82:end of critical section
+5-83:Non-critical Section
+6-82:Critical section
+6-82:Inside critical section
+6-82:end of critical section
+6-83:Non-critical Section
+7-82:Critical section
+7-82:Inside critical section
+7-82:end of critical section
+7-83:Non-critical Section
+0-83:Critical section
+0-83:Inside critical section
+0-83:end of critical section
+0-84:Non-critical Section
+1-83:Critical section
+1-83:Inside critical section
+1-83:end of critical section
+1-84:Non-critical Section
+2-83:Critical section
+2-83:Inside critical section
+2-83:end of critical section
+2-84:Non-critical Section
+3-83:Critical section
+3-83:Inside critical section
+3-83:end of critical section
+3-84:Non-critical Section
+4-83:Critical section
+4-83:Inside critical section
+4-83:end of critical section
+4-84:Non-critical Section
+5-83:Critical section
+5-83:Inside critical section
+5-83:end of critical section
+5-84:Non-critical Section
+6-83:Critical section
+6-83:Inside critical section
+6-83:end of critical section
+6-84:Non-critical Section
+7-83:Critical section
+7-83:Inside critical section
+7-83:end of critical section
+7-84:Non-critical Section
+0-84:Critical section
+0-84:Inside critical section
+0-84:end of critical section
+0-85:Non-critical Section
+1-84:Critical section
+1-84:Inside critical section
+1-84:end of critical section
+1-85:Non-critical Section
+2-84:Critical section
+2-84:Inside critical section
+2-84:end of critical section
+2-85:Non-critical Section
+3-84:Critical section
+3-84:Inside critical section
+3-84:end of critical section
+3-85:Non-critical Section
+4-84:Critical section
+4-84:Inside critical section
+4-84:end of critical section
+4-85:Non-critical Section
+5-84:Critical section
+5-84:Inside critical section
+5-84:end of critical section
+5-85:Non-critical Section
+6-84:Critical section
+6-84:Inside critical section
+6-84:end of critical section
+6-85:Non-critical Section
+7-84:Critical section
+7-84:Inside critical section
+7-84:end of critical section
+7-85:Non-critical Section
+0-85:Critical section
+0-85:Inside critical section
+0-85:end of critical section
+0-86:Non-critical Section
+1-85:Critical section
+1-85:Inside critical section
+1-85:end of critical section
+1-86:Non-critical Section
+2-85:Critical section
+2-85:Inside critical section
+2-85:end of critical section
+2-86:Non-critical Section
+3-85:Critical section
+3-85:Inside critical section
+3-85:end of critical section
+3-86:Non-critical Section
+4-85:Critical section
+4-85:Inside critical section
+4-85:end of critical section
+4-86:Non-critical Section
+5-85:Critical section
+5-85:Inside critical section
+5-85:end of critical section
+5-86:Non-critical Section
+6-85:Critical section
+6-85:Inside critical section
+6-85:end of critical section
+6-86:Non-critical Section
+7-85:Critical section
+7-85:Inside critical section
+7-85:end of critical section
+7-86:Non-critical Section
+0-86:Critical section
+0-86:Inside critical section
+0-86:end of critical section
+0-87:Non-critical Section
+1-86:Critical section
+1-86:Inside critical section
+1-86:end of critical section
+1-87:Non-critical Section
+2-86:Critical section
+2-86:Inside critical section
+2-86:end of critical section
+2-87:Non-critical Section
+3-86:Critical section
+3-86:Inside critical section
+3-86:end of critical section
+3-87:Non-critical Section
+4-86:Critical section
+4-86:Inside critical section
+4-86:end of critical section
+4-87:Non-critical Section
+5-86:Critical section
+5-86:Inside critical section
+5-86:end of critical section
+5-87:Non-critical Section
+6-86:Critical section
+6-86:Inside critical section
+6-86:end of critical section
+6-87:Non-critical Section
+7-86:Critical section
+7-86:Inside critical section
+7-86:end of critical section
+7-87:Non-critical Section
+0-87:Critical section
+0-87:Inside critical section
+0-87:end of critical section
+0-88:Non-critical Section
+1-87:Critical section
+1-87:Inside critical section
+1-87:end of critical section
+1-88:Non-critical Section
+2-87:Critical section
+2-87:Inside critical section
+2-87:end of critical section
+2-88:Non-critical Section
+3-87:Critical section
+3-87:Inside critical section
+3-87:end of critical section
+3-88:Non-critical Section
+4-87:Critical section
+4-87:Inside critical section
+4-87:end of critical section
+4-88:Non-critical Section
+5-87:Critical section
+5-87:Inside critical section
+5-87:end of critical section
+5-88:Non-critical Section
+6-87:Critical section
+6-87:Inside critical section
+6-87:end of critical section
+6-88:Non-critical Section
+7-87:Critical section
+7-87:Inside critical section
+7-87:end of critical section
+7-88:Non-critical Section
+0-88:Critical section
+0-88:Inside critical section
+0-88:end of critical section
+0-89:Non-critical Section
+1-88:Critical section
+1-88:Inside critical section
+1-88:end of critical section
+1-89:Non-critical Section
+2-88:Critical section
+2-88:Inside critical section
+2-88:end of critical section
+2-89:Non-critical Section
+3-88:Critical section
+3-88:Inside critical section
+3-88:end of critical section
+3-89:Non-critical Section
+4-88:Critical section
+4-88:Inside critical section
+4-88:end of critical section
+4-89:Non-critical Section
+5-88:Critical section
+5-88:Inside critical section
+5-88:end of critical section
+5-89:Non-critical Section
+6-88:Critical section
+6-88:Inside critical section
+6-88:end of critical section
+6-89:Non-critical Section
+7-88:Critical section
+7-88:Inside critical section
+7-88:end of critical section
+0-89:Critical section
+7-89:Non-critical Section
+0-89:Inside critical section
+0-89:end of critical section
+0-90:Non-critical Section
+1-89:Critical section
+1-89:Inside critical section
+1-89:end of critical section
+1-90:Non-critical Section
+2-89:Critical section
+2-89:Inside critical section
+2-89:end of critical section
+2-90:Non-critical Section
+3-89:Critical section
+3-89:Inside critical section
+3-89:end of critical section
+3-90:Non-critical Section
+4-89:Critical section
+4-89:Inside critical section
+4-89:end of critical section
+4-90:Non-critical Section
+5-89:Critical section
+5-89:Inside critical section
+5-89:end of critical section
+5-90:Non-critical Section
+6-89:Critical section
+6-89:Inside critical section
+6-89:end of critical section
+6-90:Non-critical Section
+7-89:Critical section
+7-89:Inside critical section
+7-89:end of critical section
+7-90:Non-critical Section
+0-90:Critical section
+0-90:Inside critical section
+0-90:end of critical section
+0-91:Non-critical Section
+1-90:Critical section
+1-90:Inside critical section
+1-90:end of critical section
+1-91:Non-critical Section
+2-90:Critical section
+2-90:Inside critical section
+2-90:end of critical section
+2-91:Non-critical Section
+3-90:Critical section
+3-90:Inside critical section
+3-90:end of critical section
+3-91:Non-critical Section
+4-90:Critical section
+4-90:Inside critical section
+4-90:end of critical section
+4-91:Non-critical Section
+5-90:Critical section
+5-90:Inside critical section
+5-90:end of critical section
+5-91:Non-critical Section
+6-90:Critical section
+6-90:Inside critical section
+6-90:end of critical section
+6-91:Non-critical Section
+7-90:Critical section
+7-90:Inside critical section
+7-90:end of critical section
+7-91:Non-critical Section
+0-91:Critical section
+0-91:Inside critical section
+0-91:end of critical section
+0-92:Non-critical Section
+1-91:Critical section
+1-91:Inside critical section
+1-91:end of critical section
+1-92:Non-critical Section
+2-91:Critical section
+2-91:Inside critical section
+2-91:end of critical section
+2-92:Non-critical Section
+3-91:Critical section
+3-91:Inside critical section
+3-91:end of critical section
+3-92:Non-critical Section
+4-91:Critical section
+4-91:Inside critical section
+4-91:end of critical section
+4-92:Non-critical Section
+5-91:Critical section
+5-91:Inside critical section
+5-91:end of critical section
+5-92:Non-critical Section
+6-91:Critical section
+6-91:Inside critical section
+6-91:end of critical section
+6-92:Non-critical Section
+7-91:Critical section
+7-91:Inside critical section
+7-91:end of critical section
+7-92:Non-critical Section
+0-92:Critical section
+0-92:Inside critical section
+0-92:end of critical section
+0-93:Non-critical Section
+1-92:Critical section
+1-92:Inside critical section
+1-92:end of critical section
+1-93:Non-critical Section
+2-92:Critical section
+2-92:Inside critical section
+2-92:end of critical section
+2-93:Non-critical Section
+3-92:Critical section
+3-92:Inside critical section
+3-92:end of critical section
+3-93:Non-critical Section
+4-92:Critical section
+4-92:Inside critical section
+4-92:end of critical section
+4-93:Non-critical Section
+5-92:Critical section
+5-92:Inside critical section
+5-92:end of critical section
+5-93:Non-critical Section
+6-92:Critical section
+6-92:Inside critical section
+6-92:end of critical section
+6-93:Non-critical Section
+7-92:Critical section
+7-92:Inside critical section
+7-92:end of critical section
+7-93:Non-critical Section
+0-93:Critical section
+0-93:Inside critical section
+0-93:end of critical section
+0-94:Non-critical Section
+1-93:Critical section
+1-93:Inside critical section
+1-93:end of critical section
+1-94:Non-critical Section
+2-93:Critical section
+2-93:Inside critical section
+2-93:end of critical section
+2-94:Non-critical Section
+3-93:Critical section
+3-93:Inside critical section
+3-93:end of critical section
+3-94:Non-critical Section
+4-93:Critical section
+4-93:Inside critical section
+4-93:end of critical section
+4-94:Non-critical Section
+5-93:Critical section
+5-93:Inside critical section
+5-93:end of critical section
+5-94:Non-critical Section
+6-93:Critical section
+6-93:Inside critical section
+6-93:end of critical section
+6-94:Non-critical Section
+7-93:Critical section
+7-93:Inside critical section
+7-93:end of critical section
+7-94:Non-critical Section
+0-94:Critical section
+0-94:Inside critical section
+0-94:end of critical section
+0-95:Non-critical Section
+1-94:Critical section
+1-94:Inside critical section
+1-94:end of critical section
+1-95:Non-critical Section
+2-94:Critical section
+2-94:Inside critical section
+2-94:end of critical section
+2-95:Non-critical Section
+3-94:Critical section
+3-94:Inside critical section
+3-94:end of critical section
+3-95:Non-critical Section
+4-94:Critical section
+4-94:Inside critical section
+4-94:end of critical section
+4-95:Non-critical Section
+5-94:Critical section
+5-94:Inside critical section
+5-94:end of critical section
+5-95:Non-critical Section
+6-94:Critical section
+6-94:Inside critical section
+6-94:end of critical section
+6-95:Non-critical Section
+7-94:Critical section
+7-94:Inside critical section
+7-94:end of critical section
+7-95:Non-critical Section
+0-95:Critical section
+0-95:Inside critical section
+0-95:end of critical section
+0-96:Non-critical Section
+1-95:Critical section
+1-95:Inside critical section
+1-95:end of critical section
+1-96:Non-critical Section
+2-95:Critical section
+2-95:Inside critical section
+2-95:end of critical section
+2-96:Non-critical Section
+3-95:Critical section
+3-95:Inside critical section
+3-95:end of critical section
+3-96:Non-critical Section
+4-95:Critical section
+4-95:Inside critical section
+4-95:end of critical section
+4-96:Non-critical Section
+5-95:Critical section
+5-95:Inside critical section
+5-95:end of critical section
+5-96:Non-critical Section
+6-95:Critical section
+6-95:Inside critical section
+6-95:end of critical section
+6-96:Non-critical Section
+7-95:Critical section
+7-95:Inside critical section
+7-95:end of critical section
+7-96:Non-critical Section
+0-96:Critical section
+0-96:Inside critical section
+0-96:end of critical section
+0-97:Non-critical Section
+1-96:Critical section
+1-96:Inside critical section
+1-96:end of critical section
+1-97:Non-critical Section
+2-96:Critical section
+2-96:Inside critical section
+2-96:end of critical section
+2-97:Non-critical Section
+3-96:Critical section
+3-96:Inside critical section
+3-96:end of critical section
+3-97:Non-critical Section
+4-96:Critical section
+4-96:Inside critical section
+4-96:end of critical section
+4-97:Non-critical Section
+5-96:Critical section
+5-96:Inside critical section
+5-96:end of critical section
+5-97:Non-critical Section
+6-96:Critical section
+6-96:Inside critical section
+6-96:end of critical section
+6-97:Non-critical Section
+7-96:Critical section
+7-96:Inside critical section
+7-96:end of critical section
+7-97:Non-critical Section
+0-97:Critical section
+0-97:Inside critical section
+0-97:end of critical section
+1-97:Critical section
+0-98:Non-critical Section
+1-97:Inside critical section
+1-97:end of critical section
+2-97:Critical section
+1-98:Non-critical Section
+2-97:Inside critical section
+2-97:end of critical section
+2-98:Non-critical Section
+3-97:Critical section
+3-97:Inside critical section
+3-97:end of critical section
+3-98:Non-critical Section
+4-97:Critical section
+4-97:Inside critical section
+4-97:end of critical section
+4-98:Non-critical Section
+5-97:Critical section
+5-97:Inside critical section
+5-97:end of critical section
+5-98:Non-critical Section
+6-97:Critical section
+6-97:Inside critical section
+6-97:end of critical section
+6-98:Non-critical Section
+7-97:Critical section
+7-97:Inside critical section
+7-97:end of critical section
+7-98:Non-critical Section
+0-98:Critical section
+0-98:Inside critical section
+0-98:end of critical section
+0-99:Non-critical Section
+1-98:Critical section
+1-98:Inside critical section
+1-98:end of critical section
+1-99:Non-critical Section
+2-98:Critical section
+2-98:Inside critical section
+2-98:end of critical section
+2-99:Non-critical Section
+3-98:Critical section
+3-98:Inside critical section
+3-98:end of critical section
+3-99:Non-critical Section
+4-98:Critical section
+4-98:Inside critical section
+4-98:end of critical section
+4-99:Non-critical Section
+5-98:Critical section
+5-98:Inside critical section
+5-98:end of critical section
+5-99:Non-critical Section
+6-98:Critical section
+6-98:Inside critical section
+6-98:end of critical section
+7-98:Critical section
+6-99:Non-critical Section
+7-98:Inside critical section
+7-98:end of critical section
+7-99:Non-critical Section
+0-99:Critical section
+0-99:Inside critical section
+0-99:end of critical section
+1-99:Critical section
+1-99:Inside critical section
+1-99:end of critical section
+2-99:Critical section
+2-99:Inside critical section
+2-99:end of critical section
+3-99:Critical section
+3-99:Inside critical section
+3-99:end of critical section
+4-99:Critical section
+4-99:Inside critical section
+4-99:end of critical section
+5-99:Critical section
+5-99:Inside critical section
+5-99:end of critical section
+6-99:Critical section
+6-99:Inside critical section
+6-99:end of critical section
+7-99:Critical section
+7-99:Inside critical section
+7-99:end of critical section
+Valor final del contador 800
+fin
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hnnano 02.py[?2004l
+[?1049h[1;44r(B[m[4l[?7h[?12l[?25h[?1h=[?1h=[?1h=[39;49m[39;49m(B[m[H[2J(B[0;7m  GNU nano 2.0.6                        File: 02.py                                                        [42;48H[ New File ][43d^G(B[m Get Help[18G(B[0;7m^O(B[m WriteOut[35G(B[0;7m^R(B[m Read File     (B[0;7m^Y(B[m Prev Page     (B[0;7m^K(B[m Cut Text[86G(B[0;7m^C(B[m Cur Pos[44d(B[0;7m^X(B[m Exit[44;18H(B[0;7m^J(B[m Justify[35G(B[0;7m^W(B[m Where Is[52G(B[0;7m^V(B[m Next Page     (B[0;7m^U(B[m UnCut Text    (B[0;7m^T(B[m To Spell[3d[1;98H(B[0;7mModified[3d(B[mfrom multiprocessing impo[42d[K[3;26Hrt Process[4dfrom multiprocessing imop  por rt current_prove  cess[5dfrom multiprocessing import Value, Array[6d[7dN = 8[8d[9ddef is: _anybody_inside()c)r)i)t)i)a)c)l),))[K)[K)[K)[Kc)a)l),) )t)i))[K)[K)[Kt)i)d)):[10d[10;9Hfound = False[11d[11;9Hi = 0[12d[12;9Hwhile izlen    <len()c)r)i)t)i)c)a)l) )a)n)d) )n)o))[K)[K)[K)[K)[K)[K)[K) and not found:[13d[13;9Hfo [K[13;9H[13;17Hfound = tid!=i nd   and critical[]i]]==! 1[14d[14;9H[14;17Hi =  +=1[15d[15;9H[15;17H[15;9Hreturn found[16d[17ddef rask    task()c)o)m)mm)o)n),)t)i)d),) tid,)[18Gtid ,),)[K, )c)r)i)t)i)c)a)l)):[18d[18;9Ha=0[19d[19;9H[19;17H[19;9Hdo [K[19;9Hfor i in range()1)0)00)):[20d[20;9H[20;17Hprint()f)'){)})r})})[Kt})i})d})}-){)})i})}:)N)o)n).)..))[K)[K-)c)r)i)t)i)c)a)l) )S)e)c)t)i)o)n)') [21d)[20;56H)[21d[K[20;56H)[21d[21;9H[21;17Ha+=1 +=1+= 11[22d[22;9H[22;17Hprint) ()f)'){)})t})i})d})}-){)})i})}:)E)n)d) )o)f) )n)o)n)-)c)r)i)t)i)c)a)l) )S)e)c)t)i)o)n)'))[23d[23;9H[23;17Hwhile is_anu ybody_inside()c)r)i)t)i)c)a)l),) )t)i)d));[24d[23;56H : [24d[24;9H[24;17H[24;25Hpass[25d[25;9H[25;17Hcritival[]t]i]d]]=1 1===[K == 1[1Pcal[tid] = 1[25;23Hal[tid] = 1[26d[26;9H[26;17Hprint()f)'){)})t})i})d})}-){)})i})}:)c)i))[K)[KC))[K ))[KC)r)i)t)i)c)a)l) )s)e)c)t)i)o)n)'))[27d[27;9H[27;17Hwhile is      [K[27;17Hv = common.value + 1[28d[28;9H[28;17Hprint()f)'){)})t})i})d})-})})[K}-){)})i})}:)I)n)s)i)d)e) )C))[Kc)r)i)t)i)c)a)l) )s)e)c)t)i)o)n)'))[29d[29;9H[29;17Hcommon.value = v[30d[30;9H[30;17Hprint()')f))[K)[Kf)ä))[K'){)})t})i})d})}-){)})i})}:)e)n)d) ))[K)[K)[K)[KE)n) )o)f) )c)r)i)t)i)c)a)l) )c))[Ks)e)c)t)i)o)n)'))[31d[31;9H[31;17Hcritical{}}[K} []i]][Kt]i]d]] ? = 0[32d[33ddef main():[34d[34;9Hlp =[] [][][35d[35;9H[35;17Hc[K[35;17H[35;9Hcommon = Value()')i))'),)0))[36d[36;9H[36;17H[36;9Hcritical = Array()')i)'),)[)])0])]*)N))[37d[37;9Hfor tid in range()N)):[38d[38;9H[38;17Hp[K[38;17Hlp.append()P)r)o)c)e)s)ss)()))t))a))r))g))e))t))=))t))a))s))k)),))a))r))g))s))=))()))))c))))))[Kc)))o)))m)))mm)))o)))n))),)))t)))i)))d))),))) ))))))[Kc)))r)))i)))t)))i)))c)))a)))l))))))[39dp[K[39;9H[39;17H[39;9Hprn int()f)')C)a))[K)[KV)a)l)o)r) )n))[Ki)n)i)c)i)a)l) )d)e) )c)i)n))[K)[Ko)n)t)a)d)o)e)r))[K)[Kr){)})c})o})m})mm})o})n}),})})[K.})v})a})l})u})e})}") {common.value}")[39;43H[1P*Valor inicial de contador {common.value}")[39;17H[1P"Valor inicial de contador {common.value}")[39;17HValor inicial de contador {common.value}")[40d[40;9Hfor p in lp:[41d[41;9H[41;17Hp.start()7[2;42r8[42d[20S[1;44r[2;1H[K[21;25H [22d)[21;25H)[22d[K[21;25H)[22d[22;9Hfor p in lp:[23d[23;9H[23;17Hp.join()[24d[24;9Hpron  int()f)')V)a)l)o)r) )f)i)n)a)l) )d)e)l) )o)c))[K)[Kc)o)n)t)a)d)o)r) ){)))c))o))m))mm))o))n)).))v))a))l))u))e))}))"))) )[25d[25;9Hfrin   [K[25;9Hprint()")f)i)n)"))[26d[27dif __name__ == "__main__"[28d[27;26H:[28d[28;9Hmain()[29d[42d(B[0;7mSave modified buffer (ANSWERING "No" WILL DESTROY CHANGES) ?                                               [43;1H Y(B[m Yes[K[44d(B[0;7m N(B[m No  [44;17H(B[0;7m^C(B[m Cancel[K[42;62H(B[0;7mFile Name to Write: 02.py                                   [43d^G(B[m Get Help[43;27H(B[0;7m^T(B[m To Files[43;53H(B[0;7mM-M(B[m Mac Format[43;79H(B[0;7mM-P(B[m Prepend[44d(B[0;7m^C(B[m Cancel[17G          (B[0;7mM-D(B[m DOS Format[44;53H(B[0;7mM-A(B[m Append[44;79H(B[0;7mM-B(B[m Backup File[42;26H[43d[39;49m(B[m[J[1;98H(B[0;7m        [42;44H(B[m[1K (B[0;7m[ Wrote 47 lines ](B[m[K[44;107H[44;1H[?1049l[?1l>[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hnano 02.py[10Dpython3 01.py.py 2.py[?2004l
+  File "02.py", line 42
+    print(f'Valor final del contador {common.value}")
+                                                    ^
+SyntaxError: EOL while scanning string literal
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hppyron   thon2 02.py[?2004l
+  File "02.py", line 18
+    print(f'{tid}-{i}:Non-critical Section')
+                                          ^
+SyntaxError: invalid syntax
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hpython2 02.py 02.py 2 02.py 02.py 3 02.py[1C[1C[?2004l
+  File "02.py", line 42
+    print(f'Valor final del contador {common.value}")
+                                                    ^
+SyntaxError: EOL while scanning string literal
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hpython3 02.py.py 1.py[?2004l
+Valor inicial del contador0
+0-0:Non-critical Section
+0-0:Critical section
+0-0:Inside critical section
+0-0:end of critical section
+0-1:Non-critical Section
+2-0:Non-critical Section
+1-0:Non-critical Section
+1-0:Critical section
+1-0:Inside critical section
+1-0:end of critical section
+1-1:Non-critical Section
+2-0:Critical section
+2-0:Inside critical section
+2-0:end of critical section
+2-1:Non-critical Section
+3-0:Non-critical Section
+3-0:Critical section
+3-0:Inside critical section
+3-0:end of critical section
+3-1:Non-critical Section
+4-0:Non-critical Section
+4-0:Critical section
+4-0:Inside critical section
+4-0:end of critical section
+5-0:Non-critical Section
+4-1:Non-critical Section
+5-0:Critical section
+5-0:Inside critical section
+5-0:end of critical section
+5-1:Non-critical Section
+6-0:Non-critical Section
+6-0:Critical section
+6-0:Inside critical section
+6-0:end of critical section
+6-1:Non-critical Section
+7-0:Non-critical Section
+7-0:Critical section
+7-0:Inside critical section
+7-0:end of critical section
+7-1:Non-critical Section
+0-1:Critical section
+0-1:Inside critical section
+0-1:end of critical section
+0-2:Non-critical Section
+1-1:Critical section
+1-1:Inside critical section
+1-1:end of critical section
+1-2:Non-critical Section
+2-1:Critical section
+2-1:Inside critical section
+2-1:end of critical section
+2-2:Non-critical Section
+3-1:Critical section
+3-1:Inside critical section
+3-1:end of critical section
+3-2:Non-critical Section
+4-1:Critical section
+4-1:Inside critical section
+4-1:end of critical section
+4-2:Non-critical Section
+5-1:Critical section
+5-1:Inside critical section
+5-1:end of critical section
+5-2:Non-critical Section
+6-1:Critical section
+6-1:Inside critical section
+6-1:end of critical section
+6-2:Non-critical Section
+7-1:Critical section
+7-1:Inside critical section
+7-1:end of critical section
+7-2:Non-critical Section
+0-2:Critical section
+0-2:Inside critical section
+0-2:end of critical section
+0-3:Non-critical Section
+1-2:Critical section
+1-2:Inside critical section
+1-2:end of critical section
+1-3:Non-critical Section
+2-2:Critical section
+2-2:Inside critical section
+2-2:end of critical section
+2-3:Non-critical Section
+3-2:Critical section
+3-2:Inside critical section
+3-2:end of critical section
+3-3:Non-critical Section
+4-2:Critical section
+4-2:Inside critical section
+4-2:end of critical section
+4-3:Non-critical Section
+5-2:Critical section
+5-2:Inside critical section
+5-2:end of critical section
+5-3:Non-critical Section
+6-2:Critical section
+6-2:Inside critical section
+6-2:end of critical section
+6-3:Non-critical Section
+7-2:Critical section
+7-2:Inside critical section
+7-2:end of critical section
+7-3:Non-critical Section
+0-3:Critical section
+0-3:Inside critical section
+0-3:end of critical section
+0-4:Non-critical Section
+1-3:Critical section
+1-3:Inside critical section
+1-3:end of critical section
+1-4:Non-critical Section
+2-3:Critical section
+2-3:Inside critical section
+2-3:end of critical section
+2-4:Non-critical Section
+3-3:Critical section
+3-3:Inside critical section
+3-3:end of critical section
+3-4:Non-critical Section
+4-3:Critical section
+4-3:Inside critical section
+4-3:end of critical section
+4-4:Non-critical Section
+5-3:Critical section
+5-3:Inside critical section
+5-3:end of critical section
+5-4:Non-critical Section
+6-3:Critical section
+6-3:Inside critical section
+6-3:end of critical section
+6-4:Non-critical Section
+7-3:Critical section
+7-3:Inside critical section
+7-3:end of critical section
+7-4:Non-critical Section
+0-4:Critical section
+0-4:Inside critical section
+0-4:end of critical section
+0-5:Non-critical Section
+1-4:Critical section
+1-4:Inside critical section
+1-4:end of critical section
+1-5:Non-critical Section
+2-4:Critical section
+2-4:Inside critical section
+2-4:end of critical section
+2-5:Non-critical Section
+3-4:Critical section
+3-4:Inside critical section
+3-4:end of critical section
+3-5:Non-critical Section
+4-4:Critical section
+4-4:Inside critical section
+4-4:end of critical section
+4-5:Non-critical Section
+5-4:Critical section
+5-4:Inside critical section
+5-4:end of critical section
+5-5:Non-critical Section
+6-4:Critical section
+6-4:Inside critical section
+6-4:end of critical section
+6-5:Non-critical Section
+7-4:Critical section
+7-4:Inside critical section
+7-4:end of critical section
+7-5:Non-critical Section
+0-5:Critical section
+0-5:Inside critical section
+0-5:end of critical section
+0-6:Non-critical Section
+1-5:Critical section
+1-5:Inside critical section
+1-5:end of critical section
+1-6:Non-critical Section
+2-5:Critical section
+2-5:Inside critical section
+2-5:end of critical section
+2-6:Non-critical Section
+3-5:Critical section
+3-5:Inside critical section
+3-5:end of critical section
+3-6:Non-critical Section
+4-5:Critical section
+4-5:Inside critical section
+4-5:end of critical section
+4-6:Non-critical Section
+5-5:Critical section
+5-5:Inside critical section
+5-5:end of critical section
+5-6:Non-critical Section
+6-5:Critical section
+6-5:Inside critical section
+6-5:end of critical section
+6-6:Non-critical Section
+7-5:Critical section
+7-5:Inside critical section
+7-5:end of critical section
+7-6:Non-critical Section
+0-6:Critical section
+0-6:Inside critical section
+0-6:end of critical section
+0-7:Non-critical Section
+1-6:Critical section
+1-6:Inside critical section
+1-6:end of critical section
+1-7:Non-critical Section
+2-6:Critical section
+2-6:Inside critical section
+2-6:end of critical section
+2-7:Non-critical Section
+3-6:Critical section
+3-6:Inside critical section
+3-6:end of critical section
+3-7:Non-critical Section
+4-6:Critical section
+4-6:Inside critical section
+4-6:end of critical section
+4-7:Non-critical Section
+5-6:Critical section
+5-6:Inside critical section
+5-6:end of critical section
+5-7:Non-critical Section
+6-6:Critical section
+6-6:Inside critical section
+6-6:end of critical section
+6-7:Non-critical Section
+7-6:Critical section
+7-6:Inside critical section
+7-6:end of critical section
+7-7:Non-critical Section
+0-7:Critical section
+0-7:Inside critical section
+0-7:end of critical section
+0-8:Non-critical Section
+1-7:Critical section
+1-7:Inside critical section
+1-7:end of critical section
+1-8:Non-critical Section
+2-7:Critical section
+2-7:Inside critical section
+2-7:end of critical section
+2-8:Non-critical Section
+3-7:Critical section
+3-7:Inside critical section
+3-7:end of critical section
+3-8:Non-critical Section
+4-7:Critical section
+4-7:Inside critical section
+4-7:end of critical section
+4-8:Non-critical Section
+5-7:Critical section
+5-7:Inside critical section
+5-7:end of critical section
+5-8:Non-critical Section
+6-7:Critical section
+6-7:Inside critical section
+6-7:end of critical section
+6-8:Non-critical Section
+7-7:Critical section
+7-7:Inside critical section
+7-7:end of critical section
+7-8:Non-critical Section
+0-8:Critical section
+0-8:Inside critical section
+0-8:end of critical section
+0-9:Non-critical Section
+1-8:Critical section
+1-8:Inside critical section
+1-8:end of critical section
+1-9:Non-critical Section
+2-8:Critical section
+2-8:Inside critical section
+2-8:end of critical section
+2-9:Non-critical Section
+3-8:Critical section
+3-8:Inside critical section
+3-8:end of critical section
+3-9:Non-critical Section
+4-8:Critical section
+4-8:Inside critical section
+4-8:end of critical section
+4-9:Non-critical Section
+5-8:Critical section
+5-8:Inside critical section
+5-8:end of critical section
+5-9:Non-critical Section
+6-8:Critical section
+6-8:Inside critical section
+6-8:end of critical section
+6-9:Non-critical Section
+7-8:Critical section
+7-8:Inside critical section
+7-8:end of critical section
+7-9:Non-critical Section
+0-9:Critical section
+0-9:Inside critical section
+0-9:end of critical section
+0-10:Non-critical Section
+1-9:Critical section
+1-9:Inside critical section
+1-9:end of critical section
+1-10:Non-critical Section
+2-9:Critical section
+2-9:Inside critical section
+2-9:end of critical section
+2-10:Non-critical Section
+3-9:Critical section
+3-9:Inside critical section
+3-9:end of critical section
+3-10:Non-critical Section
+4-9:Critical section
+4-9:Inside critical section
+4-9:end of critical section
+4-10:Non-critical Section
+5-9:Critical section
+5-9:Inside critical section
+5-9:end of critical section
+5-10:Non-critical Section
+6-9:Critical section
+6-9:Inside critical section
+6-9:end of critical section
+6-10:Non-critical Section
+7-9:Critical section
+7-9:Inside critical section
+7-9:end of critical section
+7-10:Non-critical Section
+0-10:Critical section
+0-10:Inside critical section
+0-10:end of critical section
+0-11:Non-critical Section
+1-10:Critical section
+1-10:Inside critical section
+1-10:end of critical section
+1-11:Non-critical Section
+2-10:Critical section
+2-10:Inside critical section
+2-10:end of critical section
+2-11:Non-critical Section
+3-10:Critical section
+3-10:Inside critical section
+3-10:end of critical section
+3-11:Non-critical Section
+4-10:Critical section
+4-10:Inside critical section
+4-10:end of critical section
+4-11:Non-critical Section
+5-10:Critical section
+5-10:Inside critical section
+5-10:end of critical section
+5-11:Non-critical Section
+6-10:Critical section
+6-10:Inside critical section
+6-10:end of critical section
+6-11:Non-critical Section
+7-10:Critical section
+7-10:Inside critical section
+7-10:end of critical section
+7-11:Non-critical Section
+0-11:Critical section
+0-11:Inside critical section
+0-11:end of critical section
+0-12:Non-critical Section
+1-11:Critical section
+1-11:Inside critical section
+1-11:end of critical section
+1-12:Non-critical Section
+2-11:Critical section
+2-11:Inside critical section
+2-11:end of critical section
+2-12:Non-critical Section
+3-11:Critical section
+3-11:Inside critical section
+3-11:end of critical section
+3-12:Non-critical Section
+4-11:Critical section
+4-11:Inside critical section
+4-11:end of critical section
+4-12:Non-critical Section
+5-11:Critical section
+5-11:Inside critical section
+5-11:end of critical section
+5-12:Non-critical Section
+6-11:Critical section
+6-11:Inside critical section
+6-11:end of critical section
+6-12:Non-critical Section
+7-11:Critical section
+7-11:Inside critical section
+7-11:end of critical section
+7-12:Non-critical Section
+0-12:Critical section
+0-12:Inside critical section
+0-12:end of critical section
+0-13:Non-critical Section
+1-12:Critical section
+1-12:Inside critical section
+1-12:end of critical section
+1-13:Non-critical Section
+2-12:Critical section
+2-12:Inside critical section
+2-12:end of critical section
+2-13:Non-critical Section
+3-12:Critical section
+3-12:Inside critical section
+3-12:end of critical section
+3-13:Non-critical Section
+4-12:Critical section
+4-12:Inside critical section
+4-12:end of critical section
+4-13:Non-critical Section
+5-12:Critical section
+5-12:Inside critical section
+5-12:end of critical section
+5-13:Non-critical Section
+6-12:Critical section
+6-12:Inside critical section
+6-12:end of critical section
+6-13:Non-critical Section
+7-12:Critical section
+7-12:Inside critical section
+7-12:end of critical section
+7-13:Non-critical Section
+0-13:Critical section
+0-13:Inside critical section
+0-13:end of critical section
+0-14:Non-critical Section
+1-13:Critical section
+1-13:Inside critical section
+1-13:end of critical section
+1-14:Non-critical Section
+2-13:Critical section
+2-13:Inside critical section
+2-13:end of critical section
+2-14:Non-critical Section
+3-13:Critical section
+3-13:Inside critical section
+3-13:end of critical section
+3-14:Non-critical Section
+4-13:Critical section
+4-13:Inside critical section
+4-13:end of critical section
+4-14:Non-critical Section
+5-13:Critical section
+5-13:Inside critical section
+5-13:end of critical section
+5-14:Non-critical Section
+6-13:Critical section
+6-13:Inside critical section
+6-13:end of critical section
+6-14:Non-critical Section
+7-13:Critical section
+7-13:Inside critical section
+7-13:end of critical section
+7-14:Non-critical Section
+0-14:Critical section
+0-14:Inside critical section
+0-14:end of critical section
+0-15:Non-critical Section
+1-14:Critical section
+1-14:Inside critical section
+1-14:end of critical section
+1-15:Non-critical Section
+2-14:Critical section
+2-14:Inside critical section
+2-14:end of critical section
+2-15:Non-critical Section
+3-14:Critical section
+3-14:Inside critical section
+3-14:end of critical section
+3-15:Non-critical Section
+4-14:Critical section
+4-14:Inside critical section
+4-14:end of critical section
+4-15:Non-critical Section
+5-14:Critical section
+5-14:Inside critical section
+5-14:end of critical section
+5-15:Non-critical Section
+6-14:Critical section
+6-14:Inside critical section
+6-14:end of critical section
+6-15:Non-critical Section
+7-14:Critical section
+7-14:Inside critical section
+7-14:end of critical section
+0-15:Critical section
+7-15:Non-critical Section
+0-15:Inside critical section
+0-15:end of critical section
+0-16:Non-critical Section
+1-15:Critical section
+1-15:Inside critical section
+1-15:end of critical section
+1-16:Non-critical Section
+2-15:Critical section
+2-15:Inside critical section
+2-15:end of critical section
+3-15:Critical section
+2-16:Non-critical Section
+3-15:Inside critical section
+3-15:end of critical section
+3-16:Non-critical Section
+4-15:Critical section
+4-15:Inside critical section
+4-15:end of critical section
+4-16:Non-critical Section
+5-15:Critical section
+5-15:Inside critical section
+5-15:end of critical section
+5-16:Non-critical Section
+6-15:Critical section
+6-15:Inside critical section
+6-15:end of critical section
+6-16:Non-critical Section
+7-15:Critical section
+7-15:Inside critical section
+7-15:end of critical section
+7-16:Non-critical Section
+0-16:Critical section
+0-16:Inside critical section
+0-16:end of critical section
+0-17:Non-critical Section
+1-16:Critical section
+1-16:Inside critical section
+1-16:end of critical section
+1-17:Non-critical Section
+2-16:Critical section
+2-16:Inside critical section
+2-16:end of critical section
+2-17:Non-critical Section
+3-16:Critical section
+3-16:Inside critical section
+3-16:end of critical section
+4-16:Critical section
+4-16:Inside critical section
+3-17:Non-critical Section
+4-16:end of critical section
+4-17:Non-critical Section
+5-16:Critical section
+5-16:Inside critical section
+5-16:end of critical section
+5-17:Non-critical Section
+6-16:Critical section
+6-16:Inside critical section
+6-16:end of critical section
+6-17:Non-critical Section
+7-16:Critical section
+7-16:Inside critical section
+7-16:end of critical section
+7-17:Non-critical Section
+0-17:Critical section
+0-17:Inside critical section
+0-17:end of critical section
+0-18:Non-critical Section
+1-17:Critical section
+1-17:Inside critical section
+1-17:end of critical section
+1-18:Non-critical Section
+2-17:Critical section
+2-17:Inside critical section
+2-17:end of critical section
+2-18:Non-critical Section
+3-17:Critical section
+3-17:Inside critical section
+3-17:end of critical section
+3-18:Non-critical Section
+4-17:Critical section
+4-17:Inside critical section
+4-17:end of critical section
+4-18:Non-critical Section
+5-17:Critical section
+5-17:Inside critical section
+5-17:end of critical section
+5-18:Non-critical Section
+6-17:Critical section
+6-17:Inside critical section
+6-17:end of critical section
+6-18:Non-critical Section
+7-17:Critical section
+7-17:Inside critical section
+7-17:end of critical section
+7-18:Non-critical Section
+0-18:Critical section
+0-18:Inside critical section
+0-18:end of critical section
+0-19:Non-critical Section
+1-18:Critical section
+1-18:Inside critical section
+1-18:end of critical section
+1-19:Non-critical Section
+2-18:Critical section
+2-18:Inside critical section
+2-18:end of critical section
+2-19:Non-critical Section
+3-18:Critical section
+3-18:Inside critical section
+3-18:end of critical section
+3-19:Non-critical Section
+4-18:Critical section
+4-18:Inside critical section
+4-18:end of critical section
+4-19:Non-critical Section
+5-18:Critical section
+5-18:Inside critical section
+5-18:end of critical section
+5-19:Non-critical Section
+6-18:Critical section
+6-18:Inside critical section
+6-18:end of critical section
+6-19:Non-critical Section
+7-18:Critical section
+7-18:Inside critical section
+7-18:end of critical section
+7-19:Non-critical Section
+0-19:Critical section
+0-19:Inside critical section
+0-19:end of critical section
+0-20:Non-critical Section
+1-19:Critical section
+1-19:Inside critical section
+1-19:end of critical section
+1-20:Non-critical Section
+2-19:Critical section
+2-19:Inside critical section
+2-19:end of critical section
+2-20:Non-critical Section
+3-19:Critical section
+3-19:Inside critical section
+3-19:end of critical section
+3-20:Non-critical Section
+4-19:Critical section
+4-19:Inside critical section
+4-19:end of critical section
+4-20:Non-critical Section
+5-19:Critical section
+5-19:Inside critical section
+5-19:end of critical section
+5-20:Non-critical Section
+6-19:Critical section
+6-19:Inside critical section
+6-19:end of critical section
+6-20:Non-critical Section
+7-19:Critical section
+7-19:Inside critical section
+7-19:end of critical section
+7-20:Non-critical Section
+0-20:Critical section
+0-20:Inside critical section
+0-20:end of critical section
+0-21:Non-critical Section
+1-20:Critical section
+1-20:Inside critical section
+1-20:end of critical section
+2-20:Critical section
+1-21:Non-critical Section
+2-20:Inside critical section
+2-20:end of critical section
+2-21:Non-critical Section
+3-20:Critical section
+3-20:Inside critical section
+3-20:end of critical section
+3-21:Non-critical Section
+4-20:Critical section
+4-20:Inside critical section
+4-20:end of critical section
+4-21:Non-critical Section
+5-20:Critical section
+5-20:Inside critical section
+5-20:end of critical section
+5-21:Non-critical Section
+6-20:Critical section
+6-20:Inside critical section
+6-20:end of critical section
+6-21:Non-critical Section
+7-20:Critical section
+7-20:Inside critical section
+7-20:end of critical section
+7-21:Non-critical Section
+0-21:Critical section
+0-21:Inside critical section
+0-21:end of critical section
+0-22:Non-critical Section
+1-21:Critical section
+1-21:Inside critical section
+1-21:end of critical section
+1-22:Non-critical Section
+2-21:Critical section
+2-21:Inside critical section
+2-21:end of critical section
+2-22:Non-critical Section
+3-21:Critical section
+3-21:Inside critical section
+3-21:end of critical section
+3-22:Non-critical Section
+4-21:Critical section
+4-21:Inside critical section
+4-21:end of critical section
+4-22:Non-critical Section
+5-21:Critical section
+5-21:Inside critical section
+5-21:end of critical section
+5-22:Non-critical Section
+6-21:Critical section
+6-21:Inside critical section
+6-21:end of critical section
+6-22:Non-critical Section
+7-21:Critical section
+7-21:Inside critical section
+7-21:end of critical section
+7-22:Non-critical Section
+0-22:Critical section
+0-22:Inside critical section
+0-22:end of critical section
+0-23:Non-critical Section
+1-22:Critical section
+1-22:Inside critical section
+1-22:end of critical section
+1-23:Non-critical Section
+2-22:Critical section
+2-22:Inside critical section
+2-22:end of critical section
+2-23:Non-critical Section
+3-22:Critical section
+3-22:Inside critical section
+3-22:end of critical section
+3-23:Non-critical Section
+4-22:Critical section
+4-22:Inside critical section
+4-22:end of critical section
+4-23:Non-critical Section
+5-22:Critical section
+5-22:Inside critical section
+5-22:end of critical section
+5-23:Non-critical Section
+6-22:Critical section
+6-22:Inside critical section
+6-22:end of critical section
+6-23:Non-critical Section
+7-22:Critical section
+7-22:Inside critical section
+7-22:end of critical section
+7-23:Non-critical Section
+0-23:Critical section
+0-23:Inside critical section
+0-23:end of critical section
+0-24:Non-critical Section
+1-23:Critical section
+1-23:Inside critical section
+1-23:end of critical section
+1-24:Non-critical Section
+2-23:Critical section
+2-23:Inside critical section
+2-23:end of critical section
+2-24:Non-critical Section
+3-23:Critical section
+3-23:Inside critical section
+3-23:end of critical section
+3-24:Non-critical Section
+4-23:Critical section
+4-23:Inside critical section
+4-23:end of critical section
+4-24:Non-critical Section
+5-23:Critical section
+5-23:Inside critical section
+5-23:end of critical section
+5-24:Non-critical Section
+6-23:Critical section
+6-23:Inside critical section
+6-23:end of critical section
+6-24:Non-critical Section
+7-23:Critical section
+7-23:Inside critical section
+7-23:end of critical section
+7-24:Non-critical Section
+0-24:Critical section
+0-24:Inside critical section
+0-24:end of critical section
+0-25:Non-critical Section
+1-24:Critical section
+1-24:Inside critical section
+1-24:end of critical section
+1-25:Non-critical Section
+2-24:Critical section
+2-24:Inside critical section
+2-24:end of critical section
+2-25:Non-critical Section
+3-24:Critical section
+3-24:Inside critical section
+3-24:end of critical section
+3-25:Non-critical Section
+4-24:Critical section
+4-24:Inside critical section
+4-24:end of critical section
+4-25:Non-critical Section
+5-24:Critical section
+5-24:Inside critical section
+5-24:end of critical section
+5-25:Non-critical Section
+6-24:Critical section
+6-24:Inside critical section
+6-24:end of critical section
+6-25:Non-critical Section
+7-24:Critical section
+7-24:Inside critical section
+7-24:end of critical section
+7-25:Non-critical Section
+0-25:Critical section
+0-25:Inside critical section
+0-25:end of critical section
+0-26:Non-critical Section
+1-25:Critical section
+1-25:Inside critical section
+1-25:end of critical section
+1-26:Non-critical Section
+2-25:Critical section
+2-25:Inside critical section
+2-25:end of critical section
+2-26:Non-critical Section
+3-25:Critical section
+3-25:Inside critical section
+3-25:end of critical section
+3-26:Non-critical Section
+4-25:Critical section
+4-25:Inside critical section
+4-25:end of critical section
+4-26:Non-critical Section
+5-25:Critical section
+5-25:Inside critical section
+5-25:end of critical section
+5-26:Non-critical Section
+6-25:Critical section
+6-25:Inside critical section
+6-25:end of critical section
+6-26:Non-critical Section
+7-25:Critical section
+7-25:Inside critical section
+7-25:end of critical section
+7-26:Non-critical Section
+0-26:Critical section
+0-26:Inside critical section
+0-26:end of critical section
+0-27:Non-critical Section
+1-26:Critical section
+1-26:Inside critical section
+1-26:end of critical section
+1-27:Non-critical Section
+2-26:Critical section
+2-26:Inside critical section
+2-26:end of critical section
+2-27:Non-critical Section
+3-26:Critical section
+3-26:Inside critical section
+3-26:end of critical section
+3-27:Non-critical Section
+4-26:Critical section
+4-26:Inside critical section
+4-26:end of critical section
+4-27:Non-critical Section
+5-26:Critical section
+5-26:Inside critical section
+5-26:end of critical section
+5-27:Non-critical Section
+6-26:Critical section
+6-26:Inside critical section
+6-26:end of critical section
+6-27:Non-critical Section
+7-26:Critical section
+7-26:Inside critical section
+7-26:end of critical section
+7-27:Non-critical Section
+0-27:Critical section
+0-27:Inside critical section
+0-27:end of critical section
+0-28:Non-critical Section
+1-27:Critical section
+1-27:Inside critical section
+1-27:end of critical section
+1-28:Non-critical Section
+2-27:Critical section
+2-27:Inside critical section
+2-27:end of critical section
+2-28:Non-critical Section
+3-27:Critical section
+3-27:Inside critical section
+3-27:end of critical section
+3-28:Non-critical Section
+4-27:Critical section
+4-27:Inside critical section
+4-27:end of critical section
+4-28:Non-critical Section
+5-27:Critical section
+5-27:Inside critical section
+5-27:end of critical section
+5-28:Non-critical Section
+6-27:Critical section
+6-27:Inside critical section
+6-27:end of critical section
+6-28:Non-critical Section
+7-27:Critical section
+7-27:Inside critical section
+7-27:end of critical section
+7-28:Non-critical Section
+0-28:Critical section
+0-28:Inside critical section
+0-28:end of critical section
+0-29:Non-critical Section
+1-28:Critical section
+1-28:Inside critical section
+1-28:end of critical section
+1-29:Non-critical Section
+2-28:Critical section
+2-28:Inside critical section
+2-28:end of critical section
+2-29:Non-critical Section
+3-28:Critical section
+3-28:Inside critical section
+3-28:end of critical section
+3-29:Non-critical Section
+4-28:Critical section
+4-28:Inside critical section
+4-28:end of critical section
+4-29:Non-critical Section
+5-28:Critical section
+5-28:Inside critical section
+5-28:end of critical section
+5-29:Non-critical Section
+6-28:Critical section
+6-28:Inside critical section
+6-28:end of critical section
+6-29:Non-critical Section
+7-28:Critical section
+7-28:Inside critical section
+7-28:end of critical section
+7-29:Non-critical Section
+0-29:Critical section
+0-29:Inside critical section
+0-29:end of critical section
+0-30:Non-critical Section
+1-29:Critical section
+1-29:Inside critical section
+1-29:end of critical section
+1-30:Non-critical Section
+2-29:Critical section
+2-29:Inside critical section
+2-29:end of critical section
+2-30:Non-critical Section
+3-29:Critical section
+3-29:Inside critical section
+3-29:end of critical section
+3-30:Non-critical Section
+4-29:Critical section
+4-29:Inside critical section
+4-29:end of critical section
+4-30:Non-critical Section
+5-29:Critical section
+5-29:Inside critical section
+5-29:end of critical section
+5-30:Non-critical Section
+6-29:Critical section
+6-29:Inside critical section
+6-29:end of critical section
+6-30:Non-critical Section
+7-29:Critical section
+7-29:Inside critical section
+7-29:end of critical section
+7-30:Non-critical Section
+0-30:Critical section
+0-30:Inside critical section
+0-30:end of critical section
+0-31:Non-critical Section
+1-30:Critical section
+1-30:Inside critical section
+1-30:end of critical section
+1-31:Non-critical Section
+2-30:Critical section
+2-30:Inside critical section
+2-30:end of critical section
+2-31:Non-critical Section
+3-30:Critical section
+3-30:Inside critical section
+3-30:end of critical section
+3-31:Non-critical Section
+4-30:Critical section
+4-30:Inside critical section
+4-30:end of critical section
+4-31:Non-critical Section
+5-30:Critical section
+5-30:Inside critical section
+5-30:end of critical section
+5-31:Non-critical Section
+6-30:Critical section
+6-30:Inside critical section
+6-30:end of critical section
+6-31:Non-critical Section
+7-30:Critical section
+7-30:Inside critical section
+7-30:end of critical section
+7-31:Non-critical Section
+0-31:Critical section
+0-31:Inside critical section
+0-31:end of critical section
+0-32:Non-critical Section
+1-31:Critical section
+1-31:Inside critical section
+1-31:end of critical section
+1-32:Non-critical Section
+2-31:Critical section
+2-31:Inside critical section
+2-31:end of critical section
+2-32:Non-critical Section
+3-31:Critical section
+3-31:Inside critical section
+3-31:end of critical section
+3-32:Non-critical Section
+4-31:Critical section
+4-31:Inside critical section
+4-31:end of critical section
+5-31:Critical section
+4-32:Non-critical Section
+5-31:Inside critical section
+5-31:end of critical section
+5-32:Non-critical Section
+6-31:Critical section
+6-31:Inside critical section
+6-31:end of critical section
+6-32:Non-critical Section
+7-31:Critical section
+7-31:Inside critical section
+7-31:end of critical section
+7-32:Non-critical Section
+0-32:Critical section
+0-32:Inside critical section
+0-32:end of critical section
+0-33:Non-critical Section
+1-32:Critical section
+1-32:Inside critical section
+1-32:end of critical section
+2-32:Critical section
+1-33:Non-critical Section
+2-32:Inside critical section
+2-32:end of critical section
+2-33:Non-critical Section
+3-32:Critical section
+3-32:Inside critical section
+3-32:end of critical section
+3-33:Non-critical Section
+4-32:Critical section
+4-32:Inside critical section
+4-32:end of critical section
+4-33:Non-critical Section
+5-32:Critical section
+5-32:Inside critical section
+5-32:end of critical section
+5-33:Non-critical Section
+6-32:Critical section
+6-32:Inside critical section
+6-32:end of critical section
+6-33:Non-critical Section
+7-32:Critical section
+7-32:Inside critical section
+7-32:end of critical section
+7-33:Non-critical Section
+0-33:Critical section
+0-33:Inside critical section
+0-33:end of critical section
+0-34:Non-critical Section
+1-33:Critical section
+1-33:Inside critical section
+1-33:end of critical section
+1-34:Non-critical Section
+2-33:Critical section
+2-33:Inside critical section
+2-33:end of critical section
+2-34:Non-critical Section
+3-33:Critical section
+3-33:Inside critical section
+3-33:end of critical section
+3-34:Non-critical Section
+4-33:Critical section
+4-33:Inside critical section
+4-33:end of critical section
+4-34:Non-critical Section
+5-33:Critical section
+5-33:Inside critical section
+5-33:end of critical section
+5-34:Non-critical Section
+6-33:Critical section
+6-33:Inside critical section
+6-33:end of critical section
+6-34:Non-critical Section
+7-33:Critical section
+7-33:Inside critical section
+7-33:end of critical section
+7-34:Non-critical Section
+0-34:Critical section
+0-34:Inside critical section
+0-34:end of critical section
+0-35:Non-critical Section
+1-34:Critical section
+1-34:Inside critical section
+1-34:end of critical section
+1-35:Non-critical Section
+2-34:Critical section
+2-34:Inside critical section
+2-34:end of critical section
+2-35:Non-critical Section
+3-34:Critical section
+3-34:Inside critical section
+3-34:end of critical section
+3-35:Non-critical Section
+4-34:Critical section
+4-34:Inside critical section
+4-34:end of critical section
+4-35:Non-critical Section
+5-34:Critical section
+5-34:Inside critical section
+5-34:end of critical section
+5-35:Non-critical Section
+6-34:Critical section
+6-34:Inside critical section
+6-34:end of critical section
+6-35:Non-critical Section
+7-34:Critical section
+7-34:Inside critical section
+7-34:end of critical section
+7-35:Non-critical Section
+0-35:Critical section
+0-35:Inside critical section
+0-35:end of critical section
+0-36:Non-critical Section
+1-35:Critical section
+1-35:Inside critical section
+1-35:end of critical section
+1-36:Non-critical Section
+2-35:Critical section
+2-35:Inside critical section
+2-35:end of critical section
+2-36:Non-critical Section
+3-35:Critical section
+3-35:Inside critical section
+3-35:end of critical section
+3-36:Non-critical Section
+4-35:Critical section
+4-35:Inside critical section
+4-35:end of critical section
+4-36:Non-critical Section
+5-35:Critical section
+5-35:Inside critical section
+5-35:end of critical section
+5-36:Non-critical Section
+6-35:Critical section
+6-35:Inside critical section
+6-35:end of critical section
+6-36:Non-critical Section
+7-35:Critical section
+7-35:Inside critical section
+7-35:end of critical section
+0-36:Critical section
+7-36:Non-critical Section
+0-36:Inside critical section
+0-36:end of critical section
+0-37:Non-critical Section
+1-36:Critical section
+1-36:Inside critical section
+1-36:end of critical section
+1-37:Non-critical Section
+2-36:Critical section
+2-36:Inside critical section
+2-36:end of critical section
+2-37:Non-critical Section
+3-36:Critical section
+3-36:Inside critical section
+3-36:end of critical section
+3-37:Non-critical Section
+4-36:Critical section
+4-36:Inside critical section
+4-36:end of critical section
+4-37:Non-critical Section
+5-36:Critical section
+5-36:Inside critical section
+5-36:end of critical section
+5-37:Non-critical Section
+6-36:Critical section
+6-36:Inside critical section
+6-36:end of critical section
+6-37:Non-critical Section
+7-36:Critical section
+7-36:Inside critical section
+7-36:end of critical section
+7-37:Non-critical Section
+0-37:Critical section
+0-37:Inside critical section
+0-37:end of critical section
+0-38:Non-critical Section
+1-37:Critical section
+1-37:Inside critical section
+1-37:end of critical section
+1-38:Non-critical Section
+2-37:Critical section
+2-37:Inside critical section
+2-37:end of critical section
+2-38:Non-critical Section
+3-37:Critical section
+3-37:Inside critical section
+3-37:end of critical section
+3-38:Non-critical Section
+4-37:Critical section
+4-37:Inside critical section
+4-37:end of critical section
+4-38:Non-critical Section
+5-37:Critical section
+5-37:Inside critical section
+5-37:end of critical section
+5-38:Non-critical Section
+6-37:Critical section
+6-37:Inside critical section
+6-37:end of critical section
+6-38:Non-critical Section
+7-37:Critical section
+7-37:Inside critical section
+7-37:end of critical section
+7-38:Non-critical Section
+0-38:Critical section
+0-38:Inside critical section
+0-38:end of critical section
+0-39:Non-critical Section
+1-38:Critical section
+1-38:Inside critical section
+1-38:end of critical section
+1-39:Non-critical Section
+2-38:Critical section
+2-38:Inside critical section
+2-38:end of critical section
+2-39:Non-critical Section
+3-38:Critical section
+3-38:Inside critical section
+3-38:end of critical section
+3-39:Non-critical Section
+4-38:Critical section
+4-38:Inside critical section
+4-38:end of critical section
+5-38:Critical section
+4-39:Non-critical Section
+5-38:Inside critical section
+5-38:end of critical section
+5-39:Non-critical Section
+6-38:Critical section
+6-38:Inside critical section
+6-38:end of critical section
+6-39:Non-critical Section
+7-38:Critical section
+7-38:Inside critical section
+7-38:end of critical section
+7-39:Non-critical Section
+0-39:Critical section
+0-39:Inside critical section
+0-39:end of critical section
+0-40:Non-critical Section
+1-39:Critical section
+1-39:Inside critical section
+1-39:end of critical section
+1-40:Non-critical Section
+2-39:Critical section
+2-39:Inside critical section
+2-39:end of critical section
+2-40:Non-critical Section
+3-39:Critical section
+3-39:Inside critical section
+3-39:end of critical section
+3-40:Non-critical Section
+4-39:Critical section
+4-39:Inside critical section
+4-39:end of critical section
+4-40:Non-critical Section
+5-39:Critical section
+5-39:Inside critical section
+5-39:end of critical section
+5-40:Non-critical Section
+6-39:Critical section
+6-39:Inside critical section
+6-39:end of critical section
+6-40:Non-critical Section
+7-39:Critical section
+7-39:Inside critical section
+7-39:end of critical section
+7-40:Non-critical Section
+0-40:Critical section
+0-40:Inside critical section
+0-40:end of critical section
+0-41:Non-critical Section
+1-40:Critical section
+1-40:Inside critical section
+1-40:end of critical section
+1-41:Non-critical Section
+2-40:Critical section
+2-40:Inside critical section
+2-40:end of critical section
+2-41:Non-critical Section
+3-40:Critical section
+3-40:Inside critical section
+3-40:end of critical section
+3-41:Non-critical Section
+4-40:Critical section
+4-40:Inside critical section
+4-40:end of critical section
+4-41:Non-critical Section
+5-40:Critical section
+5-40:Inside critical section
+5-40:end of critical section
+5-41:Non-critical Section
+6-40:Critical section
+6-40:Inside critical section
+6-40:end of critical section
+6-41:Non-critical Section
+7-40:Critical section
+7-40:Inside critical section
+7-40:end of critical section
+7-41:Non-critical Section
+0-41:Critical section
+0-41:Inside critical section
+0-41:end of critical section
+0-42:Non-critical Section
+1-41:Critical section
+1-41:Inside critical section
+1-41:end of critical section
+1-42:Non-critical Section
+2-41:Critical section
+2-41:Inside critical section
+2-41:end of critical section
+2-42:Non-critical Section
+3-41:Critical section
+3-41:Inside critical section
+3-41:end of critical section
+3-42:Non-critical Section
+4-41:Critical section
+4-41:Inside critical section
+4-41:end of critical section
+4-42:Non-critical Section
+5-41:Critical section
+5-41:Inside critical section
+5-41:end of critical section
+5-42:Non-critical Section
+6-41:Critical section
+6-41:Inside critical section
+6-41:end of critical section
+6-42:Non-critical Section
+7-41:Critical section
+7-41:Inside critical section
+7-41:end of critical section
+7-42:Non-critical Section
+0-42:Critical section
+0-42:Inside critical section
+0-42:end of critical section
+0-43:Non-critical Section
+1-42:Critical section
+1-42:Inside critical section
+1-42:end of critical section
+1-43:Non-critical Section
+2-42:Critical section
+2-42:Inside critical section
+2-42:end of critical section
+2-43:Non-critical Section
+3-42:Critical section
+3-42:Inside critical section
+3-42:end of critical section
+3-43:Non-critical Section
+4-42:Critical section
+4-42:Inside critical section
+4-42:end of critical section
+4-43:Non-critical Section
+5-42:Critical section
+5-42:Inside critical section
+5-42:end of critical section
+5-43:Non-critical Section
+6-42:Critical section
+6-42:Inside critical section
+6-42:end of critical section
+6-43:Non-critical Section
+7-42:Critical section
+7-42:Inside critical section
+7-42:end of critical section
+7-43:Non-critical Section
+0-43:Critical section
+0-43:Inside critical section
+0-43:end of critical section
+0-44:Non-critical Section
+1-43:Critical section
+1-43:Inside critical section
+1-43:end of critical section
+1-44:Non-critical Section
+2-43:Critical section
+2-43:Inside critical section
+2-43:end of critical section
+2-44:Non-critical Section
+3-43:Critical section
+3-43:Inside critical section
+3-43:end of critical section
+3-44:Non-critical Section
+4-43:Critical section
+4-43:Inside critical section
+4-43:end of critical section
+4-44:Non-critical Section
+5-43:Critical section
+5-43:Inside critical section
+5-43:end of critical section
+5-44:Non-critical Section
+6-43:Critical section
+6-43:Inside critical section
+6-43:end of critical section
+6-44:Non-critical Section
+7-43:Critical section
+7-43:Inside critical section
+7-43:end of critical section
+7-44:Non-critical Section
+0-44:Critical section
+0-44:Inside critical section
+0-44:end of critical section
+0-45:Non-critical Section
+1-44:Critical section
+1-44:Inside critical section
+1-44:end of critical section
+1-45:Non-critical Section
+2-44:Critical section
+2-44:Inside critical section
+2-44:end of critical section
+2-45:Non-critical Section
+3-44:Critical section
+3-44:Inside critical section
+3-44:end of critical section
+3-45:Non-critical Section
+4-44:Critical section
+4-44:Inside critical section
+4-44:end of critical section
+4-45:Non-critical Section
+5-44:Critical section
+5-44:Inside critical section
+5-44:end of critical section
+5-45:Non-critical Section
+6-44:Critical section
+6-44:Inside critical section
+6-44:end of critical section
+6-45:Non-critical Section
+7-44:Critical section
+7-44:Inside critical section
+7-44:end of critical section
+7-45:Non-critical Section
+0-45:Critical section
+0-45:Inside critical section
+0-45:end of critical section
+0-46:Non-critical Section
+1-45:Critical section
+1-45:Inside critical section
+1-45:end of critical section
+1-46:Non-critical Section
+2-45:Critical section
+2-45:Inside critical section
+2-45:end of critical section
+2-46:Non-critical Section
+3-45:Critical section
+3-45:Inside critical section
+3-45:end of critical section
+3-46:Non-critical Section
+4-45:Critical section
+4-45:Inside critical section
+4-45:end of critical section
+4-46:Non-critical Section
+5-45:Critical section
+5-45:Inside critical section
+5-45:end of critical section
+5-46:Non-critical Section
+6-45:Critical section
+6-45:Inside critical section
+6-45:end of critical section
+6-46:Non-critical Section
+7-45:Critical section
+7-45:Inside critical section
+7-45:end of critical section
+7-46:Non-critical Section
+0-46:Critical section
+0-46:Inside critical section
+0-46:end of critical section
+1-46:Critical section
+1-46:Inside critical section
+0-47:Non-critical Section
+1-46:end of critical section
+1-47:Non-critical Section
+2-46:Critical section
+2-46:Inside critical section
+2-46:end of critical section
+2-47:Non-critical Section
+3-46:Critical section
+3-46:Inside critical section
+3-46:end of critical section
+3-47:Non-critical Section
+4-46:Critical section
+4-46:Inside critical section
+4-46:end of critical section
+4-47:Non-critical Section
+5-46:Critical section
+5-46:Inside critical section
+5-46:end of critical section
+5-47:Non-critical Section
+6-46:Critical section
+6-46:Inside critical section
+6-46:end of critical section
+6-47:Non-critical Section
+7-46:Critical section
+7-46:Inside critical section
+7-46:end of critical section
+7-47:Non-critical Section
+0-47:Critical section
+0-47:Inside critical section
+0-47:end of critical section
+0-48:Non-critical Section
+1-47:Critical section
+1-47:Inside critical section
+1-47:end of critical section
+1-48:Non-critical Section
+2-47:Critical section
+2-47:Inside critical section
+2-47:end of critical section
+2-48:Non-critical Section
+3-47:Critical section
+3-47:Inside critical section
+3-47:end of critical section
+3-48:Non-critical Section
+4-47:Critical section
+4-47:Inside critical section
+4-47:end of critical section
+4-48:Non-critical Section
+5-47:Critical section
+5-47:Inside critical section
+5-47:end of critical section
+5-48:Non-critical Section
+6-47:Critical section
+6-47:Inside critical section
+6-47:end of critical section
+6-48:Non-critical Section
+7-47:Critical section
+7-47:Inside critical section
+7-47:end of critical section
+7-48:Non-critical Section
+0-48:Critical section
+0-48:Inside critical section
+0-48:end of critical section
+0-49:Non-critical Section
+1-48:Critical section
+1-48:Inside critical section
+1-48:end of critical section
+1-49:Non-critical Section
+2-48:Critical section
+2-48:Inside critical section
+2-48:end of critical section
+2-49:Non-critical Section
+3-48:Critical section
+3-48:Inside critical section
+3-48:end of critical section
+3-49:Non-critical Section
+4-48:Critical section
+4-48:Inside critical section
+4-48:end of critical section
+4-49:Non-critical Section
+5-48:Critical section
+5-48:Inside critical section
+5-48:end of critical section
+5-49:Non-critical Section
+6-48:Critical section
+6-48:Inside critical section
+6-48:end of critical section
+6-49:Non-critical Section
+7-48:Critical section
+7-48:Inside critical section
+7-48:end of critical section
+7-49:Non-critical Section
+0-49:Critical section
+0-49:Inside critical section
+0-49:end of critical section
+0-50:Non-critical Section
+1-49:Critical section
+1-49:Inside critical section
+1-49:end of critical section
+1-50:Non-critical Section
+2-49:Critical section
+2-49:Inside critical section
+2-49:end of critical section
+2-50:Non-critical Section
+3-49:Critical section
+3-49:Inside critical section
+3-49:end of critical section
+3-50:Non-critical Section
+4-49:Critical section
+4-49:Inside critical section
+4-49:end of critical section
+4-50:Non-critical Section
+5-49:Critical section
+5-49:Inside critical section
+5-49:end of critical section
+5-50:Non-critical Section
+6-49:Critical section
+6-49:Inside critical section
+6-49:end of critical section
+6-50:Non-critical Section
+7-49:Critical section
+7-49:Inside critical section
+7-49:end of critical section
+7-50:Non-critical Section
+0-50:Critical section
+0-50:Inside critical section
+0-50:end of critical section
+0-51:Non-critical Section
+1-50:Critical section
+1-50:Inside critical section
+1-50:end of critical section
+1-51:Non-critical Section
+2-50:Critical section
+2-50:Inside critical section
+2-50:end of critical section
+2-51:Non-critical Section
+3-50:Critical section
+3-50:Inside critical section
+3-50:end of critical section
+3-51:Non-critical Section
+4-50:Critical section
+4-50:Inside critical section
+4-50:end of critical section
+4-51:Non-critical Section
+5-50:Critical section
+5-50:Inside critical section
+5-50:end of critical section
+5-51:Non-critical Section
+6-50:Critical section
+6-50:Inside critical section
+6-50:end of critical section
+6-51:Non-critical Section
+7-50:Critical section
+7-50:Inside critical section
+7-50:end of critical section
+7-51:Non-critical Section
+0-51:Critical section
+0-51:Inside critical section
+0-51:end of critical section
+0-52:Non-critical Section
+1-51:Critical section
+1-51:Inside critical section
+1-51:end of critical section
+1-52:Non-critical Section
+2-51:Critical section
+2-51:Inside critical section
+2-51:end of critical section
+2-52:Non-critical Section
+3-51:Critical section
+3-51:Inside critical section
+3-51:end of critical section
+3-52:Non-critical Section
+4-51:Critical section
+4-51:Inside critical section
+4-51:end of critical section
+4-52:Non-critical Section
+5-51:Critical section
+5-51:Inside critical section
+5-51:end of critical section
+5-52:Non-critical Section
+6-51:Critical section
+6-51:Inside critical section
+6-51:end of critical section
+6-52:Non-critical Section
+7-51:Critical section
+7-51:Inside critical section
+7-51:end of critical section
+7-52:Non-critical Section
+0-52:Critical section
+0-52:Inside critical section
+0-52:end of critical section
+0-53:Non-critical Section
+1-52:Critical section
+1-52:Inside critical section
+1-52:end of critical section
+1-53:Non-critical Section
+2-52:Critical section
+2-52:Inside critical section
+2-52:end of critical section
+2-53:Non-critical Section
+3-52:Critical section
+3-52:Inside critical section
+3-52:end of critical section
+3-53:Non-critical Section
+4-52:Critical section
+4-52:Inside critical section
+4-52:end of critical section
+4-53:Non-critical Section
+5-52:Critical section
+5-52:Inside critical section
+5-52:end of critical section
+5-53:Non-critical Section
+6-52:Critical section
+6-52:Inside critical section
+6-52:end of critical section
+6-53:Non-critical Section
+7-52:Critical section
+7-52:Inside critical section
+7-52:end of critical section
+7-53:Non-critical Section
+0-53:Critical section
+0-53:Inside critical section
+0-53:end of critical section
+0-54:Non-critical Section
+1-53:Critical section
+1-53:Inside critical section
+1-53:end of critical section
+1-54:Non-critical Section
+2-53:Critical section
+2-53:Inside critical section
+2-53:end of critical section
+2-54:Non-critical Section
+3-53:Critical section
+3-53:Inside critical section
+3-53:end of critical section
+3-54:Non-critical Section
+4-53:Critical section
+4-53:Inside critical section
+4-53:end of critical section
+4-54:Non-critical Section
+5-53:Critical section
+5-53:Inside critical section
+5-53:end of critical section
+5-54:Non-critical Section
+6-53:Critical section
+6-53:Inside critical section
+6-53:end of critical section
+6-54:Non-critical Section
+7-53:Critical section
+7-53:Inside critical section
+7-53:end of critical section
+7-54:Non-critical Section
+0-54:Critical section
+0-54:Inside critical section
+0-54:end of critical section
+0-55:Non-critical Section
+1-54:Critical section
+1-54:Inside critical section
+1-54:end of critical section
+1-55:Non-critical Section
+2-54:Critical section
+2-54:Inside critical section
+2-54:end of critical section
+2-55:Non-critical Section
+3-54:Critical section
+3-54:Inside critical section
+3-54:end of critical section
+3-55:Non-critical Section
+4-54:Critical section
+4-54:Inside critical section
+4-54:end of critical section
+4-55:Non-critical Section
+5-54:Critical section
+5-54:Inside critical section
+5-54:end of critical section
+5-55:Non-critical Section
+6-54:Critical section
+6-54:Inside critical section
+6-54:end of critical section
+6-55:Non-critical Section
+7-54:Critical section
+7-54:Inside critical section
+7-54:end of critical section
+7-55:Non-critical Section
+0-55:Critical section
+0-55:Inside critical section
+0-55:end of critical section
+0-56:Non-critical Section
+1-55:Critical section
+1-55:Inside critical section
+1-55:end of critical section
+1-56:Non-critical Section
+2-55:Critical section
+2-55:Inside critical section
+2-55:end of critical section
+2-56:Non-critical Section
+3-55:Critical section
+3-55:Inside critical section
+3-55:end of critical section
+3-56:Non-critical Section
+4-55:Critical section
+4-55:Inside critical section
+4-55:end of critical section
+4-56:Non-critical Section
+5-55:Critical section
+5-55:Inside critical section
+5-55:end of critical section
+5-56:Non-critical Section
+6-55:Critical section
+6-55:Inside critical section
+6-55:end of critical section
+6-56:Non-critical Section
+7-55:Critical section
+7-55:Inside critical section
+7-55:end of critical section
+7-56:Non-critical Section
+0-56:Critical section
+0-56:Inside critical section
+0-56:end of critical section
+0-57:Non-critical Section
+1-56:Critical section
+1-56:Inside critical section
+1-56:end of critical section
+1-57:Non-critical Section
+2-56:Critical section
+2-56:Inside critical section
+2-56:end of critical section
+2-57:Non-critical Section
+3-56:Critical section
+3-56:Inside critical section
+3-56:end of critical section
+3-57:Non-critical Section
+4-56:Critical section
+4-56:Inside critical section
+4-56:end of critical section
+4-57:Non-critical Section
+5-56:Critical section
+5-56:Inside critical section
+5-56:end of critical section
+5-57:Non-critical Section
+6-56:Critical section
+6-56:Inside critical section
+6-56:end of critical section
+6-57:Non-critical Section
+7-56:Critical section
+7-56:Inside critical section
+7-56:end of critical section
+7-57:Non-critical Section
+0-57:Critical section
+0-57:Inside critical section
+0-57:end of critical section
+0-58:Non-critical Section
+1-57:Critical section
+1-57:Inside critical section
+1-57:end of critical section
+1-58:Non-critical Section
+2-57:Critical section
+2-57:Inside critical section
+2-57:end of critical section
+2-58:Non-critical Section
+3-57:Critical section
+3-57:Inside critical section
+3-57:end of critical section
+3-58:Non-critical Section
+4-57:Critical section
+4-57:Inside critical section
+4-57:end of critical section
+4-58:Non-critical Section
+5-57:Critical section
+5-57:Inside critical section
+5-57:end of critical section
+5-58:Non-critical Section
+6-57:Critical section
+6-57:Inside critical section
+6-57:end of critical section
+6-58:Non-critical Section
+7-57:Critical section
+7-57:Inside critical section
+7-57:end of critical section
+7-58:Non-critical Section
+0-58:Critical section
+0-58:Inside critical section
+0-58:end of critical section
+0-59:Non-critical Section
+1-58:Critical section
+1-58:Inside critical section
+1-58:end of critical section
+1-59:Non-critical Section
+2-58:Critical section
+2-58:Inside critical section
+2-58:end of critical section
+2-59:Non-critical Section
+3-58:Critical section
+3-58:Inside critical section
+3-58:end of critical section
+3-59:Non-critical Section
+4-58:Critical section
+4-58:Inside critical section
+4-58:end of critical section
+4-59:Non-critical Section
+5-58:Critical section
+5-58:Inside critical section
+5-58:end of critical section
+5-59:Non-critical Section
+6-58:Critical section
+6-58:Inside critical section
+6-58:end of critical section
+6-59:Non-critical Section
+7-58:Critical section
+7-58:Inside critical section
+7-58:end of critical section
+7-59:Non-critical Section
+0-59:Critical section
+0-59:Inside critical section
+0-59:end of critical section
+0-60:Non-critical Section
+1-59:Critical section
+1-59:Inside critical section
+1-59:end of critical section
+1-60:Non-critical Section
+2-59:Critical section
+2-59:Inside critical section
+2-59:end of critical section
+2-60:Non-critical Section
+3-59:Critical section
+3-59:Inside critical section
+3-59:end of critical section
+3-60:Non-critical Section
+4-59:Critical section
+4-59:Inside critical section
+4-59:end of critical section
+4-60:Non-critical Section
+5-59:Critical section
+5-59:Inside critical section
+5-59:end of critical section
+5-60:Non-critical Section
+6-59:Critical section
+6-59:Inside critical section
+6-59:end of critical section
+6-60:Non-critical Section
+7-59:Critical section
+7-59:Inside critical section
+7-59:end of critical section
+7-60:Non-critical Section
+0-60:Critical section
+0-60:Inside critical section
+0-60:end of critical section
+0-61:Non-critical Section
+1-60:Critical section
+1-60:Inside critical section
+1-60:end of critical section
+1-61:Non-critical Section
+2-60:Critical section
+2-60:Inside critical section
+2-60:end of critical section
+2-61:Non-critical Section
+3-60:Critical section
+3-60:Inside critical section
+3-60:end of critical section
+3-61:Non-critical Section
+4-60:Critical section
+4-60:Inside critical section
+4-60:end of critical section
+4-61:Non-critical Section
+5-60:Critical section
+5-60:Inside critical section
+5-60:end of critical section
+5-61:Non-critical Section
+6-60:Critical section
+6-60:Inside critical section
+6-60:end of critical section
+6-61:Non-critical Section
+7-60:Critical section
+7-60:Inside critical section
+7-60:end of critical section
+7-61:Non-critical Section
+0-61:Critical section
+0-61:Inside critical section
+0-61:end of critical section
+0-62:Non-critical Section
+1-61:Critical section
+1-61:Inside critical section
+1-61:end of critical section
+1-62:Non-critical Section
+2-61:Critical section
+2-61:Inside critical section
+2-61:end of critical section
+2-62:Non-critical Section
+3-61:Critical section
+3-61:Inside critical section
+3-61:end of critical section
+3-62:Non-critical Section
+4-61:Critical section
+4-61:Inside critical section
+4-61:end of critical section
+4-62:Non-critical Section
+5-61:Critical section
+5-61:Inside critical section
+5-61:end of critical section
+5-62:Non-critical Section
+6-61:Critical section
+6-61:Inside critical section
+6-61:end of critical section
+6-62:Non-critical Section
+7-61:Critical section
+7-61:Inside critical section
+7-61:end of critical section
+7-62:Non-critical Section
+0-62:Critical section
+0-62:Inside critical section
+0-62:end of critical section
+0-63:Non-critical Section
+1-62:Critical section
+1-62:Inside critical section
+1-62:end of critical section
+1-63:Non-critical Section
+2-62:Critical section
+2-62:Inside critical section
+2-62:end of critical section
+2-63:Non-critical Section
+3-62:Critical section
+3-62:Inside critical section
+3-62:end of critical section
+3-63:Non-critical Section
+4-62:Critical section
+4-62:Inside critical section
+4-62:end of critical section
+4-63:Non-critical Section
+5-62:Critical section
+5-62:Inside critical section
+5-62:end of critical section
+5-63:Non-critical Section
+6-62:Critical section
+6-62:Inside critical section
+6-62:end of critical section
+6-63:Non-critical Section
+7-62:Critical section
+7-62:Inside critical section
+7-62:end of critical section
+7-63:Non-critical Section
+0-63:Critical section
+0-63:Inside critical section
+0-63:end of critical section
+1-63:Critical section
+1-63:Inside critical section
+0-64:Non-critical Section
+1-63:end of critical section
+1-64:Non-critical Section
+2-63:Critical section
+2-63:Inside critical section
+2-63:end of critical section
+2-64:Non-critical Section
+3-63:Critical section
+3-63:Inside critical section
+3-63:end of critical section
+3-64:Non-critical Section
+4-63:Critical section
+4-63:Inside critical section
+4-63:end of critical section
+4-64:Non-critical Section
+5-63:Critical section
+5-63:Inside critical section
+5-63:end of critical section
+5-64:Non-critical Section
+6-63:Critical section
+6-63:Inside critical section
+6-63:end of critical section
+6-64:Non-critical Section
+7-63:Critical section
+7-63:Inside critical section
+7-63:end of critical section
+7-64:Non-critical Section
+0-64:Critical section
+0-64:Inside critical section
+0-64:end of critical section
+0-65:Non-critical Section
+1-64:Critical section
+1-64:Inside critical section
+1-64:end of critical section
+1-65:Non-critical Section
+2-64:Critical section
+2-64:Inside critical section
+2-64:end of critical section
+2-65:Non-critical Section
+3-64:Critical section
+3-64:Inside critical section
+3-64:end of critical section
+3-65:Non-critical Section
+4-64:Critical section
+4-64:Inside critical section
+4-64:end of critical section
+5-64:Critical section
+4-65:Non-critical Section
+5-64:Inside critical section
+5-64:end of critical section
+5-65:Non-critical Section
+6-64:Critical section
+6-64:Inside critical section
+6-64:end of critical section
+6-65:Non-critical Section
+7-64:Critical section
+7-64:Inside critical section
+7-64:end of critical section
+7-65:Non-critical Section
+0-65:Critical section
+0-65:Inside critical section
+0-65:end of critical section
+0-66:Non-critical Section
+1-65:Critical section
+1-65:Inside critical section
+1-65:end of critical section
+1-66:Non-critical Section
+2-65:Critical section
+2-65:Inside critical section
+2-65:end of critical section
+2-66:Non-critical Section
+3-65:Critical section
+3-65:Inside critical section
+3-65:end of critical section
+3-66:Non-critical Section
+4-65:Critical section
+4-65:Inside critical section
+4-65:end of critical section
+4-66:Non-critical Section
+5-65:Critical section
+5-65:Inside critical section
+5-65:end of critical section
+5-66:Non-critical Section
+6-65:Critical section
+6-65:Inside critical section
+6-65:end of critical section
+6-66:Non-critical Section
+7-65:Critical section
+7-65:Inside critical section
+7-65:end of critical section
+7-66:Non-critical Section
+0-66:Critical section
+0-66:Inside critical section
+0-66:end of critical section
+0-67:Non-critical Section
+1-66:Critical section
+1-66:Inside critical section
+1-66:end of critical section
+1-67:Non-critical Section
+2-66:Critical section
+2-66:Inside critical section
+2-66:end of critical section
+2-67:Non-critical Section
+3-66:Critical section
+3-66:Inside critical section
+3-66:end of critical section
+3-67:Non-critical Section
+4-66:Critical section
+4-66:Inside critical section
+4-66:end of critical section
+4-67:Non-critical Section
+5-66:Critical section
+5-66:Inside critical section
+5-66:end of critical section
+5-67:Non-critical Section
+6-66:Critical section
+6-66:Inside critical section
+6-66:end of critical section
+6-67:Non-critical Section
+7-66:Critical section
+7-66:Inside critical section
+7-66:end of critical section
+7-67:Non-critical Section
+0-67:Critical section
+0-67:Inside critical section
+0-67:end of critical section
+0-68:Non-critical Section
+1-67:Critical section
+1-67:Inside critical section
+1-67:end of critical section
+1-68:Non-critical Section
+2-67:Critical section
+2-67:Inside critical section
+2-67:end of critical section
+2-68:Non-critical Section
+3-67:Critical section
+3-67:Inside critical section
+3-67:end of critical section
+3-68:Non-critical Section
+4-67:Critical section
+4-67:Inside critical section
+4-67:end of critical section
+4-68:Non-critical Section
+5-67:Critical section
+5-67:Inside critical section
+5-67:end of critical section
+5-68:Non-critical Section
+6-67:Critical section
+6-67:Inside critical section
+6-67:end of critical section
+6-68:Non-critical Section
+7-67:Critical section
+7-67:Inside critical section
+7-67:end of critical section
+7-68:Non-critical Section
+0-68:Critical section
+0-68:Inside critical section
+0-68:end of critical section
+0-69:Non-critical Section
+1-68:Critical section
+1-68:Inside critical section
+1-68:end of critical section
+1-69:Non-critical Section
+2-68:Critical section
+2-68:Inside critical section
+2-68:end of critical section
+2-69:Non-critical Section
+3-68:Critical section
+3-68:Inside critical section
+3-68:end of critical section
+3-69:Non-critical Section
+4-68:Critical section
+4-68:Inside critical section
+4-68:end of critical section
+4-69:Non-critical Section
+5-68:Critical section
+5-68:Inside critical section
+5-68:end of critical section
+5-69:Non-critical Section
+6-68:Critical section
+6-68:Inside critical section
+6-68:end of critical section
+6-69:Non-critical Section
+7-68:Critical section
+7-68:Inside critical section
+7-68:end of critical section
+7-69:Non-critical Section
+0-69:Critical section
+0-69:Inside critical section
+0-69:end of critical section
+0-70:Non-critical Section
+1-69:Critical section
+1-69:Inside critical section
+1-69:end of critical section
+1-70:Non-critical Section
+2-69:Critical section
+2-69:Inside critical section
+2-69:end of critical section
+2-70:Non-critical Section
+3-69:Critical section
+3-69:Inside critical section
+3-69:end of critical section
+3-70:Non-critical Section
+4-69:Critical section
+4-69:Inside critical section
+4-69:end of critical section
+4-70:Non-critical Section
+5-69:Critical section
+5-69:Inside critical section
+5-69:end of critical section
+5-70:Non-critical Section
+6-69:Critical section
+6-69:Inside critical section
+6-69:end of critical section
+6-70:Non-critical Section
+7-69:Critical section
+7-69:Inside critical section
+7-69:end of critical section
+7-70:Non-critical Section
+0-70:Critical section
+0-70:Inside critical section
+0-70:end of critical section
+0-71:Non-critical Section
+1-70:Critical section
+1-70:Inside critical section
+1-70:end of critical section
+1-71:Non-critical Section
+2-70:Critical section
+2-70:Inside critical section
+2-70:end of critical section
+2-71:Non-critical Section
+3-70:Critical section
+3-70:Inside critical section
+3-70:end of critical section
+3-71:Non-critical Section
+4-70:Critical section
+4-70:Inside critical section
+4-70:end of critical section
+4-71:Non-critical Section
+5-70:Critical section
+5-70:Inside critical section
+5-70:end of critical section
+5-71:Non-critical Section
+6-70:Critical section
+6-70:Inside critical section
+6-70:end of critical section
+6-71:Non-critical Section
+7-70:Critical section
+7-70:Inside critical section
+7-70:end of critical section
+7-71:Non-critical Section
+0-71:Critical section
+0-71:Inside critical section
+0-71:end of critical section
+0-72:Non-critical Section
+1-71:Critical section
+1-71:Inside critical section
+1-71:end of critical section
+1-72:Non-critical Section
+2-71:Critical section
+2-71:Inside critical section
+2-71:end of critical section
+2-72:Non-critical Section
+3-71:Critical section
+3-71:Inside critical section
+3-71:end of critical section
+3-72:Non-critical Section
+4-71:Critical section
+4-71:Inside critical section
+4-71:end of critical section
+4-72:Non-critical Section
+5-71:Critical section
+5-71:Inside critical section
+5-71:end of critical section
+6-71:Critical section
+6-71:Inside critical section
+5-72:Non-critical Section
+6-71:end of critical section
+6-72:Non-critical Section
+7-71:Critical section
+7-71:Inside critical section
+7-71:end of critical section
+7-72:Non-critical Section
+0-72:Critical section
+0-72:Inside critical section
+0-72:end of critical section
+0-73:Non-critical Section
+1-72:Critical section
+1-72:Inside critical section
+1-72:end of critical section
+1-73:Non-critical Section
+2-72:Critical section
+2-72:Inside critical section
+2-72:end of critical section
+2-73:Non-critical Section
+3-72:Critical section
+3-72:Inside critical section
+3-72:end of critical section
+4-72:Critical section
+4-72:Inside critical section
+3-73:Non-critical Section
+4-72:end of critical section
+4-73:Non-critical Section
+5-72:Critical section
+5-72:Inside critical section
+5-72:end of critical section
+5-73:Non-critical Section
+6-72:Critical section
+6-72:Inside critical section
+6-72:end of critical section
+6-73:Non-critical Section
+7-72:Critical section
+7-72:Inside critical section
+7-72:end of critical section
+7-73:Non-critical Section
+0-73:Critical section
+0-73:Inside critical section
+0-73:end of critical section
+0-74:Non-critical Section
+1-73:Critical section
+1-73:Inside critical section
+1-73:end of critical section
+1-74:Non-critical Section
+2-73:Critical section
+2-73:Inside critical section
+2-73:end of critical section
+2-74:Non-critical Section
+3-73:Critical section
+3-73:Inside critical section
+3-73:end of critical section
+3-74:Non-critical Section
+4-73:Critical section
+4-73:Inside critical section
+4-73:end of critical section
+4-74:Non-critical Section
+5-73:Critical section
+5-73:Inside critical section
+5-73:end of critical section
+5-74:Non-critical Section
+6-73:Critical section
+6-73:Inside critical section
+6-73:end of critical section
+6-74:Non-critical Section
+7-73:Critical section
+7-73:Inside critical section
+7-73:end of critical section
+7-74:Non-critical Section
+0-74:Critical section
+0-74:Inside critical section
+0-74:end of critical section
+0-75:Non-critical Section
+1-74:Critical section
+1-74:Inside critical section
+1-74:end of critical section
+1-75:Non-critical Section
+2-74:Critical section
+2-74:Inside critical section
+2-74:end of critical section
+2-75:Non-critical Section
+3-74:Critical section
+3-74:Inside critical section
+3-74:end of critical section
+3-75:Non-critical Section
+4-74:Critical section
+4-74:Inside critical section
+4-74:end of critical section
+4-75:Non-critical Section
+5-74:Critical section
+5-74:Inside critical section
+5-74:end of critical section
+5-75:Non-critical Section
+6-74:Critical section
+6-74:Inside critical section
+6-74:end of critical section
+6-75:Non-critical Section
+7-74:Critical section
+7-74:Inside critical section
+7-74:end of critical section
+7-75:Non-critical Section
+0-75:Critical section
+0-75:Inside critical section
+0-75:end of critical section
+1-75:Critical section
+0-76:Non-critical Section
+1-75:Inside critical section
+1-75:end of critical section
+1-76:Non-critical Section
+2-75:Critical section
+2-75:Inside critical section
+2-75:end of critical section
+2-76:Non-critical Section
+3-75:Critical section
+3-75:Inside critical section
+3-75:end of critical section
+3-76:Non-critical Section
+4-75:Critical section
+4-75:Inside critical section
+4-75:end of critical section
+4-76:Non-critical Section
+5-75:Critical section
+5-75:Inside critical section
+5-75:end of critical section
+5-76:Non-critical Section
+6-75:Critical section
+6-75:Inside critical section
+6-75:end of critical section
+6-76:Non-critical Section
+7-75:Critical section
+7-75:Inside critical section
+7-75:end of critical section
+7-76:Non-critical Section
+0-76:Critical section
+0-76:Inside critical section
+0-76:end of critical section
+0-77:Non-critical Section
+1-76:Critical section
+1-76:Inside critical section
+1-76:end of critical section
+1-77:Non-critical Section
+2-76:Critical section
+2-76:Inside critical section
+2-76:end of critical section
+2-77:Non-critical Section
+3-76:Critical section
+3-76:Inside critical section
+3-76:end of critical section
+3-77:Non-critical Section
+4-76:Critical section
+4-76:Inside critical section
+4-76:end of critical section
+4-77:Non-critical Section
+5-76:Critical section
+5-76:Inside critical section
+5-76:end of critical section
+5-77:Non-critical Section
+6-76:Critical section
+6-76:Inside critical section
+6-76:end of critical section
+6-77:Non-critical Section
+7-76:Critical section
+7-76:Inside critical section
+7-76:end of critical section
+7-77:Non-critical Section
+0-77:Critical section
+0-77:Inside critical section
+0-77:end of critical section
+1-77:Critical section
+1-77:Inside critical section
+0-78:Non-critical Section
+1-77:end of critical section
+1-78:Non-critical Section
+2-77:Critical section
+2-77:Inside critical section
+2-77:end of critical section
+2-78:Non-critical Section
+3-77:Critical section
+3-77:Inside critical section
+3-77:end of critical section
+3-78:Non-critical Section
+4-77:Critical section
+4-77:Inside critical section
+4-77:end of critical section
+4-78:Non-critical Section
+5-77:Critical section
+5-77:Inside critical section
+5-77:end of critical section
+5-78:Non-critical Section
+6-77:Critical section
+6-77:Inside critical section
+6-77:end of critical section
+6-78:Non-critical Section
+7-77:Critical section
+7-77:Inside critical section
+7-77:end of critical section
+7-78:Non-critical Section
+0-78:Critical section
+0-78:Inside critical section
+0-78:end of critical section
+0-79:Non-critical Section
+1-78:Critical section
+1-78:Inside critical section
+1-78:end of critical section
+1-79:Non-critical Section
+2-78:Critical section
+2-78:Inside critical section
+2-78:end of critical section
+2-79:Non-critical Section
+3-78:Critical section
+3-78:Inside critical section
+3-78:end of critical section
+3-79:Non-critical Section
+4-78:Critical section
+4-78:Inside critical section
+4-78:end of critical section
+4-79:Non-critical Section
+5-78:Critical section
+5-78:Inside critical section
+5-78:end of critical section
+5-79:Non-critical Section
+6-78:Critical section
+6-78:Inside critical section
+6-78:end of critical section
+7-78:Critical section
+6-79:Non-critical Section
+7-78:Inside critical section
+7-78:end of critical section
+7-79:Non-critical Section
+0-79:Critical section
+0-79:Inside critical section
+0-79:end of critical section
+0-80:Non-critical Section
+1-79:Critical section
+1-79:Inside critical section
+1-79:end of critical section
+1-80:Non-critical Section
+2-79:Critical section
+2-79:Inside critical section
+2-79:end of critical section
+2-80:Non-critical Section
+3-79:Critical section
+3-79:Inside critical section
+3-79:end of critical section
+3-80:Non-critical Section
+4-79:Critical section
+4-79:Inside critical section
+4-79:end of critical section
+4-80:Non-critical Section
+5-79:Critical section
+5-79:Inside critical section
+5-79:end of critical section
+5-80:Non-critical Section
+6-79:Critical section
+6-79:Inside critical section
+6-79:end of critical section
+6-80:Non-critical Section
+7-79:Critical section
+7-79:Inside critical section
+7-79:end of critical section
+7-80:Non-critical Section
+0-80:Critical section
+0-80:Inside critical section
+0-80:end of critical section
+0-81:Non-critical Section
+1-80:Critical section
+1-80:Inside critical section
+1-80:end of critical section
+1-81:Non-critical Section
+2-80:Critical section
+2-80:Inside critical section
+2-80:end of critical section
+2-81:Non-critical Section
+3-80:Critical section
+3-80:Inside critical section
+3-80:end of critical section
+3-81:Non-critical Section
+4-80:Critical section
+4-80:Inside critical section
+4-80:end of critical section
+4-81:Non-critical Section
+5-80:Critical section
+5-80:Inside critical section
+5-80:end of critical section
+5-81:Non-critical Section
+6-80:Critical section
+6-80:Inside critical section
+6-80:end of critical section
+6-81:Non-critical Section
+7-80:Critical section
+7-80:Inside critical section
+7-80:end of critical section
+7-81:Non-critical Section
+0-81:Critical section
+0-81:Inside critical section
+0-81:end of critical section
+0-82:Non-critical Section
+1-81:Critical section
+1-81:Inside critical section
+1-81:end of critical section
+1-82:Non-critical Section
+2-81:Critical section
+2-81:Inside critical section
+2-81:end of critical section
+2-82:Non-critical Section
+3-81:Critical section
+3-81:Inside critical section
+3-81:end of critical section
+3-82:Non-critical Section
+4-81:Critical section
+4-81:Inside critical section
+4-81:end of critical section
+4-82:Non-critical Section
+5-81:Critical section
+5-81:Inside critical section
+5-81:end of critical section
+5-82:Non-critical Section
+6-81:Critical section
+6-81:Inside critical section
+6-81:end of critical section
+7-81:Critical section
+7-81:Inside critical section
+6-82:Non-critical Section
+7-81:end of critical section
+7-82:Non-critical Section
+0-82:Critical section
+0-82:Inside critical section
+0-82:end of critical section
+0-83:Non-critical Section
+1-82:Critical section
+1-82:Inside critical section
+1-82:end of critical section
+1-83:Non-critical Section
+2-82:Critical section
+2-82:Inside critical section
+2-82:end of critical section
+2-83:Non-critical Section
+3-82:Critical section
+3-82:Inside critical section
+3-82:end of critical section
+3-83:Non-critical Section
+4-82:Critical section
+4-82:Inside critical section
+4-82:end of critical section
+4-83:Non-critical Section
+5-82:Critical section
+5-82:Inside critical section
+5-82:end of critical section
+5-83:Non-critical Section
+6-82:Critical section
+6-82:Inside critical section
+6-82:end of critical section
+6-83:Non-critical Section
+7-82:Critical section
+7-82:Inside critical section
+7-82:end of critical section
+7-83:Non-critical Section
+0-83:Critical section
+0-83:Inside critical section
+0-83:end of critical section
+0-84:Non-critical Section
+1-83:Critical section
+1-83:Inside critical section
+1-83:end of critical section
+2-83:Critical section
+1-84:Non-critical Section
+2-83:Inside critical section
+2-83:end of critical section
+2-84:Non-critical Section
+3-83:Critical section
+3-83:Inside critical section
+3-83:end of critical section
+3-84:Non-critical Section
+4-83:Critical section
+4-83:Inside critical section
+4-83:end of critical section
+4-84:Non-critical Section
+5-83:Critical section
+5-83:Inside critical section
+5-83:end of critical section
+5-84:Non-critical Section
+6-83:Critical section
+6-83:Inside critical section
+6-83:end of critical section
+6-84:Non-critical Section
+7-83:Critical section
+7-83:Inside critical section
+7-83:end of critical section
+7-84:Non-critical Section
+0-84:Critical section
+0-84:Inside critical section
+0-84:end of critical section
+0-85:Non-critical Section
+1-84:Critical section
+1-84:Inside critical section
+1-84:end of critical section
+1-85:Non-critical Section
+2-84:Critical section
+2-84:Inside critical section
+2-84:end of critical section
+2-85:Non-critical Section
+3-84:Critical section
+3-84:Inside critical section
+3-84:end of critical section
+3-85:Non-critical Section
+4-84:Critical section
+4-84:Inside critical section
+4-84:end of critical section
+4-85:Non-critical Section
+5-84:Critical section
+5-84:Inside critical section
+5-84:end of critical section
+5-85:Non-critical Section
+6-84:Critical section
+6-84:Inside critical section
+6-84:end of critical section
+6-85:Non-critical Section
+7-84:Critical section
+7-84:Inside critical section
+7-84:end of critical section
+7-85:Non-critical Section
+0-85:Critical section
+0-85:Inside critical section
+0-85:end of critical section
+0-86:Non-critical Section
+1-85:Critical section
+1-85:Inside critical section
+1-85:end of critical section
+1-86:Non-critical Section
+2-85:Critical section
+2-85:Inside critical section
+2-85:end of critical section
+2-86:Non-critical Section
+3-85:Critical section
+3-85:Inside critical section
+3-85:end of critical section
+3-86:Non-critical Section
+4-85:Critical section
+4-85:Inside critical section
+4-85:end of critical section
+4-86:Non-critical Section
+5-85:Critical section
+5-85:Inside critical section
+5-85:end of critical section
+5-86:Non-critical Section
+6-85:Critical section
+6-85:Inside critical section
+6-85:end of critical section
+6-86:Non-critical Section
+7-85:Critical section
+7-85:Inside critical section
+7-85:end of critical section
+7-86:Non-critical Section
+0-86:Critical section
+0-86:Inside critical section
+0-86:end of critical section
+0-87:Non-critical Section
+1-86:Critical section
+1-86:Inside critical section
+1-86:end of critical section
+1-87:Non-critical Section
+2-86:Critical section
+2-86:Inside critical section
+2-86:end of critical section
+2-87:Non-critical Section
+3-86:Critical section
+3-86:Inside critical section
+3-86:end of critical section
+3-87:Non-critical Section
+4-86:Critical section
+4-86:Inside critical section
+4-86:end of critical section
+4-87:Non-critical Section
+5-86:Critical section
+5-86:Inside critical section
+5-86:end of critical section
+5-87:Non-critical Section
+6-86:Critical section
+6-86:Inside critical section
+6-86:end of critical section
+6-87:Non-critical Section
+7-86:Critical section
+7-86:Inside critical section
+7-86:end of critical section
+7-87:Non-critical Section
+0-87:Critical section
+0-87:Inside critical section
+0-87:end of critical section
+0-88:Non-critical Section
+1-87:Critical section
+1-87:Inside critical section
+1-87:end of critical section
+1-88:Non-critical Section
+2-87:Critical section
+2-87:Inside critical section
+2-87:end of critical section
+2-88:Non-critical Section
+3-87:Critical section
+3-87:Inside critical section
+3-87:end of critical section
+3-88:Non-critical Section
+4-87:Critical section
+4-87:Inside critical section
+4-87:end of critical section
+5-87:Critical section
+4-88:Non-critical Section
+5-87:Inside critical section
+5-87:end of critical section
+5-88:Non-critical Section
+6-87:Critical section
+6-87:Inside critical section
+6-87:end of critical section
+6-88:Non-critical Section
+7-87:Critical section
+7-87:Inside critical section
+7-87:end of critical section
+0-88:Critical section
+7-88:Non-critical Section
+0-88:Inside critical section
+0-88:end of critical section
+0-89:Non-critical Section
+1-88:Critical section
+1-88:Inside critical section
+1-88:end of critical section
+1-89:Non-critical Section
+2-88:Critical section
+2-88:Inside critical section
+2-88:end of critical section
+2-89:Non-critical Section
+3-88:Critical section
+3-88:Inside critical section
+3-88:end of critical section
+3-89:Non-critical Section
+4-88:Critical section
+4-88:Inside critical section
+4-88:end of critical section
+4-89:Non-critical Section
+5-88:Critical section
+5-88:Inside critical section
+5-88:end of critical section
+5-89:Non-critical Section
+6-88:Critical section
+6-88:Inside critical section
+6-88:end of critical section
+6-89:Non-critical Section
+7-88:Critical section
+7-88:Inside critical section
+7-88:end of critical section
+7-89:Non-critical Section
+0-89:Critical section
+0-89:Inside critical section
+0-89:end of critical section
+0-90:Non-critical Section
+1-89:Critical section
+1-89:Inside critical section
+1-89:end of critical section
+1-90:Non-critical Section
+2-89:Critical section
+2-89:Inside critical section
+2-89:end of critical section
+2-90:Non-critical Section
+3-89:Critical section
+3-89:Inside critical section
+3-89:end of critical section
+3-90:Non-critical Section
+4-89:Critical section
+4-89:Inside critical section
+4-89:end of critical section
+4-90:Non-critical Section
+5-89:Critical section
+5-89:Inside critical section
+5-89:end of critical section
+5-90:Non-critical Section
+6-89:Critical section
+6-89:Inside critical section
+6-89:end of critical section
+7-89:Critical section
+6-90:Non-critical Section
+7-89:Inside critical section
+7-89:end of critical section
+7-90:Non-critical Section
+0-90:Critical section
+0-90:Inside critical section
+0-90:end of critical section
+0-91:Non-critical Section
+1-90:Critical section
+1-90:Inside critical section
+1-90:end of critical section
+1-91:Non-critical Section
+2-90:Critical section
+2-90:Inside critical section
+2-90:end of critical section
+2-91:Non-critical Section
+3-90:Critical section
+3-90:Inside critical section
+3-90:end of critical section
+3-91:Non-critical Section
+4-90:Critical section
+4-90:Inside critical section
+4-90:end of critical section
+4-91:Non-critical Section
+5-90:Critical section
+5-90:Inside critical section
+5-90:end of critical section
+5-91:Non-critical Section
+6-90:Critical section
+6-90:Inside critical section
+6-90:end of critical section
+6-91:Non-critical Section
+7-90:Critical section
+7-90:Inside critical section
+7-90:end of critical section
+7-91:Non-critical Section
+0-91:Critical section
+0-91:Inside critical section
+0-91:end of critical section
+0-92:Non-critical Section
+1-91:Critical section
+1-91:Inside critical section
+1-91:end of critical section
+1-92:Non-critical Section
+2-91:Critical section
+2-91:Inside critical section
+2-91:end of critical section
+2-92:Non-critical Section
+3-91:Critical section
+3-91:Inside critical section
+3-91:end of critical section
+3-92:Non-critical Section
+4-91:Critical section
+4-91:Inside critical section
+4-91:end of critical section
+4-92:Non-critical Section
+5-91:Critical section
+5-91:Inside critical section
+5-91:end of critical section
+5-92:Non-critical Section
+6-91:Critical section
+6-91:Inside critical section
+6-91:end of critical section
+6-92:Non-critical Section
+7-91:Critical section
+7-91:Inside critical section
+7-91:end of critical section
+7-92:Non-critical Section
+0-92:Critical section
+0-92:Inside critical section
+0-92:end of critical section
+0-93:Non-critical Section
+1-92:Critical section
+1-92:Inside critical section
+1-92:end of critical section
+1-93:Non-critical Section
+2-92:Critical section
+2-92:Inside critical section
+2-92:end of critical section
+2-93:Non-critical Section
+3-92:Critical section
+3-92:Inside critical section
+3-92:end of critical section
+3-93:Non-critical Section
+4-92:Critical section
+4-92:Inside critical section
+4-92:end of critical section
+4-93:Non-critical Section
+5-92:Critical section
+5-92:Inside critical section
+5-92:end of critical section
+5-93:Non-critical Section
+6-92:Critical section
+6-92:Inside critical section
+6-92:end of critical section
+6-93:Non-critical Section
+7-92:Critical section
+7-92:Inside critical section
+7-92:end of critical section
+7-93:Non-critical Section
+0-93:Critical section
+0-93:Inside critical section
+0-93:end of critical section
+0-94:Non-critical Section
+1-93:Critical section
+1-93:Inside critical section
+1-93:end of critical section
+1-94:Non-critical Section
+2-93:Critical section
+2-93:Inside critical section
+2-93:end of critical section
+2-94:Non-critical Section
+3-93:Critical section
+3-93:Inside critical section
+3-93:end of critical section
+3-94:Non-critical Section
+4-93:Critical section
+4-93:Inside critical section
+4-93:end of critical section
+4-94:Non-critical Section
+5-93:Critical section
+5-93:Inside critical section
+5-93:end of critical section
+5-94:Non-critical Section
+6-93:Critical section
+6-93:Inside critical section
+6-93:end of critical section
+6-94:Non-critical Section
+7-93:Critical section
+7-93:Inside critical section
+7-93:end of critical section
+7-94:Non-critical Section
+0-94:Critical section
+0-94:Inside critical section
+0-94:end of critical section
+0-95:Non-critical Section
+1-94:Critical section
+1-94:Inside critical section
+1-94:end of critical section
+1-95:Non-critical Section
+2-94:Critical section
+2-94:Inside critical section
+2-94:end of critical section
+2-95:Non-critical Section
+3-94:Critical section
+3-94:Inside critical section
+3-94:end of critical section
+3-95:Non-critical Section
+4-94:Critical section
+4-94:Inside critical section
+4-94:end of critical section
+4-95:Non-critical Section
+5-94:Critical section
+5-94:Inside critical section
+5-94:end of critical section
+5-95:Non-critical Section
+6-94:Critical section
+6-94:Inside critical section
+6-94:end of critical section
+6-95:Non-critical Section
+7-94:Critical section
+7-94:Inside critical section
+7-94:end of critical section
+7-95:Non-critical Section
+0-95:Critical section
+0-95:Inside critical section
+0-95:end of critical section
+0-96:Non-critical Section
+1-95:Critical section
+1-95:Inside critical section
+1-95:end of critical section
+1-96:Non-critical Section
+2-95:Critical section
+2-95:Inside critical section
+2-95:end of critical section
+2-96:Non-critical Section
+3-95:Critical section
+3-95:Inside critical section
+3-95:end of critical section
+3-96:Non-critical Section
+4-95:Critical section
+4-95:Inside critical section
+4-95:end of critical section
+4-96:Non-critical Section
+5-95:Critical section
+5-95:Inside critical section
+5-95:end of critical section
+5-96:Non-critical Section
+6-95:Critical section
+6-95:Inside critical section
+6-95:end of critical section
+6-96:Non-critical Section
+7-95:Critical section
+7-95:Inside critical section
+7-95:end of critical section
+7-96:Non-critical Section
+0-96:Critical section
+0-96:Inside critical section
+0-96:end of critical section
+0-97:Non-critical Section
+1-96:Critical section
+1-96:Inside critical section
+1-96:end of critical section
+1-97:Non-critical Section
+2-96:Critical section
+2-96:Inside critical section
+2-96:end of critical section
+2-97:Non-critical Section
+3-96:Critical section
+3-96:Inside critical section
+3-96:end of critical section
+3-97:Non-critical Section
+4-96:Critical section
+4-96:Inside critical section
+4-96:end of critical section
+4-97:Non-critical Section
+5-96:Critical section
+5-96:Inside critical section
+5-96:end of critical section
+5-97:Non-critical Section
+6-96:Critical section
+6-96:Inside critical section
+6-96:end of critical section
+6-97:Non-critical Section
+7-96:Critical section
+7-96:Inside critical section
+7-96:end of critical section
+7-97:Non-critical Section
+0-97:Critical section
+0-97:Inside critical section
+0-97:end of critical section
+0-98:Non-critical Section
+1-97:Critical section
+1-97:Inside critical section
+1-97:end of critical section
+1-98:Non-critical Section
+2-97:Critical section
+2-97:Inside critical section
+2-97:end of critical section
+2-98:Non-critical Section
+3-97:Critical section
+3-97:Inside critical section
+3-97:end of critical section
+3-98:Non-critical Section
+4-97:Critical section
+4-97:Inside critical section
+4-97:end of critical section
+4-98:Non-critical Section
+5-97:Critical section
+5-97:Inside critical section
+5-97:end of critical section
+5-98:Non-critical Section
+6-97:Critical section
+6-97:Inside critical section
+6-97:end of critical section
+6-98:Non-critical Section
+7-97:Critical section
+7-97:Inside critical section
+7-97:end of critical section
+7-98:Non-critical Section
+0-98:Critical section
+0-98:Inside critical section
+0-98:end of critical section
+0-99:Non-critical Section
+1-98:Critical section
+1-98:Inside critical section
+1-98:end of critical section
+1-99:Non-critical Section
+2-98:Critical section
+2-98:Inside critical section
+2-98:end of critical section
+2-99:Non-critical Section
+3-98:Critical section
+3-98:Inside critical section
+3-98:end of critical section
+3-99:Non-critical Section
+4-98:Critical section
+4-98:Inside critical section
+4-98:end of critical section
+4-99:Non-critical Section
+5-98:Critical section
+5-98:Inside critical section
+5-98:end of critical section
+5-99:Non-critical Section
+6-98:Critical section
+6-98:Inside critical section
+6-98:end of critical section
+6-99:Non-critical Section
+7-98:Critical section
+7-98:Inside critical section
+7-98:end of critical section
+7-99:Non-critical Section
+0-99:Critical section
+0-99:Inside critical section
+0-99:end of critical section
+1-99:Critical section
+1-99:Inside critical section
+1-99:end of critical section
+2-99:Critical section
+2-99:Inside critical section
+2-99:end of critical section
+3-99:Critical section
+3-99:Inside critical section
+3-99:end of critical section
+4-99:Critical section
+4-99:Inside critical section
+4-99:end of critical section
+5-99:Critical section
+5-99:Inside critical section
+5-99:end of critical section
+6-99:Critical section
+6-99:Inside critical section
+6-99:end of critical section
+7-99:Critical section
+7-99:Inside critical section
+7-99:end of critical section
+Valor final del contador 800
+fin
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hpython3 01.py2[3C1[3C[13D             [13D[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hlls[?2004l
+01.py		02.py		dekker.txt
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hkksk  lls[?2004l
+01.py		02.py		dekker.txt
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam/Desktop/programacion_paralela/lab0210[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 lab0210 % [K[?2004hccd [?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users/sandrafjelkestam[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 ~ % [K[?2004hccd --  ..[?2004l
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 /Users % [K[?2004hccd De  c  lls[?2004l
+Guest			admin			prov
+Shared			dummy			sandrafjelkestam
+[1m[7m%[27m[1m[0m                                                                                                           ]7;file://sandrafjelkestamC02N37QYG085/Users[0m[27m[24m[Jsandrafjelkestam@sandrafjelkestamC02N37QYG085 /Users % [K[?2004h[?2004l
+
+Script done on Thu Feb 10 10:46:02 2022
